@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2062836703304495547",
+    "created_at": "2026-06-05T15:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062915675992314175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901290700064333824",
+          "start": 0,
+          "username": "skysea220314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062915675992314175",
+    "in_reply_to_user_id": "1901290700064333824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062905903020712298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skysea220314 大概率说是只要是家里不咋管休学也行？)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2062836703304495547",
+        "created_at": "2026-06-05T15:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062915675992314175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901290700064333824",
+              "start": 0,
+              "username": "skysea220314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062915675992314175",
+        "in_reply_to_user_id": "1901290700064333824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062905903020712298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skysea220314 大概率说是只要是家里不咋管休学也行？)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901290700064333824",
+        "conversation_id": "2062836703304495547",
+        "created_at": "2026-06-05T14:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062905903020712298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062905903020712298",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062836703304495547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 喜欢的话要挨电哦，虽然15已经不是特别小了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 76,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 329
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:14:04.000Z",
+        "description": "男，凡人，混沌善，观测者，私信看见必回，爱听故事",
+        "id": "1901290700064333824",
+        "location": "不知道",
+        "name": "九天星光 互fo喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057086395647467520/sWF89eQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 32,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 987
+        },
+        "username": "skysea220314",
+        "verified": false
+      }
+    ]
+  }
+}

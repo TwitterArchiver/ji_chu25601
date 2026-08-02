@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2059013659037417923",
+    "created_at": "2026-05-25T21:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T22:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059025445673488839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952805837401202688",
+          "start": 0,
+          "username": "Z9Gsystem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059025445673488839",
+    "in_reply_to_user_id": "1952805837401202688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059017718033162716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z9Gsystem 回了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059013659037417923",
+        "created_at": "2026-05-25T21:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059025445673488839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952805837401202688",
+              "start": 0,
+              "username": "Z9Gsystem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059025445673488839",
+        "in_reply_to_user_id": "1952805837401202688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059017718033162716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z9Gsystem 回了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952805837401202688",
+        "conversation_id": "2059013659037417923",
+        "created_at": "2026-05-25T21:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059017718033162716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059017718033162716",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059013659037417923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 许愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "pinned_tweet_id": "2059013659037417923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 38,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 228
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T18:56:30.000Z",
+        "description": "07  四川 男\n成分复杂 OverDoes 女装 友跨🏳️‍⚧️  亚文化🖤后朋🤘🏻 无政府主义爱好者☠️  \n哲学 心理学重度依赖🥺\n全X使命召唤手游最强玩家\n 机车 抑郁 焦虑 BPD \n多意识体系统:李玖钟system\n世界上成分最复杂之人\n期待互fo喵\n座右铭:\n意义由存在的当下赋予",
+        "id": "1952805837401202688",
+        "location": "距离你114514km",
+        "name": "Aliseya",
+        "pinned_tweet_id": "2049564004264362377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960586455530790912/fMX1dRw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 264,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 486
+        },
+        "username": "Z9Gsystem",
+        "verified": false
+      }
+    ]
+  }
+}

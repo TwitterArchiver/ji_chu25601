@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2023251762069885091",
+    "created_at": "2026-02-17T14:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023772705456066741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1891897856136708098",
+          "start": 0,
+          "username": "ipriiimiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023772705456066741",
+    "in_reply_to_user_id": "1891897856136708098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023473395653075198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ipriiimiv 讨论议题也没问题吧推特又不是什么约炮平台为啥你能得出间中就是看黄约泡，再说每个人其实都可能看黄但是正常讨论议题的时候又不会说出来，只是有这些黄色内容，不是只有这些黄色内容，之后要么就是od要么就是割手表达自己的崩溃要不就是政治我觉得你干啥都没问题呀毕竟这是一个挺包罗万象的平台吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2023251762069885091",
+        "created_at": "2026-02-17T14:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023772705456066741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1891897856136708098",
+              "start": 0,
+              "username": "ipriiimiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023772705456066741",
+        "in_reply_to_user_id": "1891897856136708098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023473395653075198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ipriiimiv 讨论议题也没问题吧推特又不是什么约炮平台为啥你能得出间中就是看黄约泡，再说每个人其实都可能看黄但是正常讨论议题的时候又不会说出来，只是有这些黄色内容，不是只有这些黄色内容，之后要么就是od要么就是割手表达自己的崩溃要不就是政治我觉得你干啥都没问题呀毕竟这是一个挺包罗万象的平台吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891897856136708098",
+        "conversation_id": "2023251762069885091",
+        "created_at": "2026-02-16T19:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023473395653075198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023473395653075198",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2518,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023251762069885091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 全世界交流你就讲英文啊不然的话全世界谁跟你交流啊，对于简中来说推就是看黄的有什么问题吗....况且谁告诉你外国人用推思想交流啊🆘你哪条推文有全世界交流了能at我看看吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 86
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T17:09:46.000Z",
+        "description": "",
+        "id": "1891897856136708098",
+        "name": "arimlv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023135830274158592/DH6ToUjp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 658,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 100
+        },
+        "username": "ipriiimiv",
+        "verified": false
+      }
+    ]
+  }
+}

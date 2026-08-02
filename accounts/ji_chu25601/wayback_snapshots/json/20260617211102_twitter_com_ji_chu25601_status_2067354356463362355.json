@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2067234844531450050",
+    "created_at": "2026-06-17T21:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T22:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067354356463362355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447499448649601025",
+          "start": 0,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067354356463362355",
+    "in_reply_to_user_id": "1447499448649601025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067234844531450050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVTGW666 挺有男人味的😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1727,
+        "media_key": "3_2067234833252900864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBLIM9aYAAqNq0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2067234844531450050",
+        "created_at": "2026-06-17T21:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067354356463362355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067354356463362355",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067234844531450050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 挺有男人味的😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067234833252900864"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2067234844531450050",
+        "created_at": "2026-06-17T13:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067234844531450050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gkk2R56v3x",
+              "end": 30,
+              "expanded_url": "https://x.com/LVTGW666/status/2067234844531450050/photo/1",
+              "media_key": "3_2067234833252900864",
+              "start": 7,
+              "url": "https://t.co/Gkk2R56v3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067234844531450050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 57765,
+          "like_count": 435,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "差不多点得了 https://t.co/Gkk2R56v3x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 126,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 467
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72111,
+          "following_count": 987,
+          "like_count": 14846,
+          "listed_count": 305,
+          "media_count": 5404,
+          "tweet_count": 12873
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

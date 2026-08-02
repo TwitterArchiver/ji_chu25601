@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2067022177044693315",
+    "created_at": "2026-06-16T23:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T00:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067022177044693315"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067022177044693315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "懵逼的要死我朋友因为我那段时间能量低迷我帖子都没咋发他说我没回他消息何意为就说什么以后自己加油懵逼中就因为这个讨厌我不做朋友什么的有点奇怪吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2067022177044693315",
+        "created_at": "2026-06-16T23:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067022177044693315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067022177044693315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懵逼的要死我朋友因为我那段时间能量低迷我帖子都没咋发他说我没回他消息何意为就说什么以后自己加油懵逼中就因为这个讨厌我不做朋友什么的有点奇怪吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2066457296125972895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 118,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

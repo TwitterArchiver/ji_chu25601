@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2025092167799042128",
+    "created_at": "2026-02-21T06:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025092167799042128"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025092167799042128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "艹我觉得莫名其妙的我懂你是世界上最傻逼的话群友说、现实朋友说，网络朋友说，就连AI都有我觉得除非你经历了同样的事情不然安慰我的时候完全没有必要加上，我也不好说什么😔👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2025092167799042128",
+        "created_at": "2026-02-21T06:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025092167799042128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025092167799042128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艹我觉得莫名其妙的我懂你是世界上最傻逼的话群友说、现实朋友说，网络朋友说，就连AI都有我觉得除非你经历了同样的事情不然安慰我的时候完全没有必要加上，我也不好说什么😔👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

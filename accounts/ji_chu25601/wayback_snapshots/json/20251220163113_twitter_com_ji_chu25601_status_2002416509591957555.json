@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2002239558214468037",
+    "created_at": "2025-12-20T16:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002416509591957555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697158457450012672",
+          "start": 0,
+          "username": "ayawo11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002416509591957555",
+    "in_reply_to_user_id": "1697158457450012672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002239558214468037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayawo11_ 每次答应别人的时候就是   行！！！！！！或彳亍！！！！！！！😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2002239558214468037",
+        "created_at": "2025-12-20T16:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002416509591957555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697158457450012672",
+              "start": 0,
+              "username": "ayawo11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002416509591957555",
+        "in_reply_to_user_id": "1697158457450012672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002239558214468037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayawo11_ 每次答应别人的时候就是   行！！！！！！或彳亍！！！！！！！😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697158457450012672",
+        "conversation_id": "2002239558214468037",
+        "created_at": "2025-12-20T04:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002239558214468037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002239558214468037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 34573,
+          "like_count": 597,
+          "quote_count": 10,
+          "reply_count": 52,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我说话喜欢莫名其妙的加个感叹号！很像凶狠的弱智！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aya1136304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aya1136304",
+                "start": 0,
+                "url": "https://t.co/l517hVsKSx"
+              }
+            ]
+          }
+        },
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "2002269526017102062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2542,
+          "following_count": 135,
+          "like_count": 4120,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 2787
+        },
+        "url": "https://t.co/l517hVsKSx",
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

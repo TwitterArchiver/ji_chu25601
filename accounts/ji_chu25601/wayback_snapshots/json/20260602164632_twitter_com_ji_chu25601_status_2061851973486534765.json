@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2061534342527300063",
+    "created_at": "2026-06-02T16:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061851973486534765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1390544045479317504",
+          "start": 0,
+          "username": "qiuhao61743976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061851973486534765",
+    "in_reply_to_user_id": "1390544045479317504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061787440407588953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuhao61743976 估计是吧因为我真的没钱了总不可能真的去卖😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2061534342527300063",
+        "created_at": "2026-06-02T16:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061851973486534765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1390544045479317504",
+              "start": 0,
+              "username": "qiuhao61743976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061851973486534765",
+        "in_reply_to_user_id": "1390544045479317504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061787440407588953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuhao61743976 估计是吧因为我真的没钱了总不可能真的去卖😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390544045479317504",
+        "conversation_id": "2061534342527300063",
+        "created_at": "2026-06-02T12:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061787440407588953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061787440407588953",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061534342527300063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 在x上搞绿色?应该很难找到，一堆机器人➕lsp，大部分出来都是为了那点事。擦亮眼睛，祝你好运吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 73,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 312
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T05:48:38.000Z",
+        "description": "新手绳师，其实更喜欢胶带，努力寻找湖州的女同好ing",
+        "id": "1390544045479317504",
+        "name": "湖州qh1997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053819205812989952/VHZSsMy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 78,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "username": "qiuhao61743976",
+        "verified": false
+      }
+    ]
+  }
+}

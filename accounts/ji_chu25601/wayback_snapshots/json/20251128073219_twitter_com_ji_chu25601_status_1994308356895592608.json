@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1994261044533801115",
+    "created_at": "2025-11-28T07:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T08:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994308356895592608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994308356895592608",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994261044533801115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 努力的小栀😧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994261036346822657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60J2LTa0AEgDwI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1994261044533801115",
+        "created_at": "2025-11-28T07:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994308356895592608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994308356895592608",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994261044533801115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 努力的小栀😧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994261036346822657"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "1994261044533801115",
+        "created_at": "2025-11-28T04:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994261044533801115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0QCO7vUPV",
+              "end": 28,
+              "expanded_url": "https://x.com/yui804275429451/status/1994261044533801115/photo/1",
+              "media_key": "3_1994261036346822657",
+              "start": 5,
+              "url": "https://t.co/K0QCO7vUPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994261044533801115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好累噢🫠 https://t.co/K0QCO7vUPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 612,
+          "like_count": 1754,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 760
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

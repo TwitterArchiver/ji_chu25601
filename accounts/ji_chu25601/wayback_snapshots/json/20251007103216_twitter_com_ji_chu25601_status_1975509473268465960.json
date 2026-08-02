@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975509470768959488"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "1975446301933535301",
+    "created_at": "2025-10-07T10:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T11:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975509473268465960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918831724898951168",
+          "start": 0,
+          "username": "XYN1789927"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K65WCPK6oX",
+          "end": 41,
+          "expanded_url": "https://x.com/ji_chu25601/status/1975509473268465960/photo/1",
+          "media_key": "3_1975509470768959488",
+          "start": 18,
+          "url": "https://t.co/K65WCPK6oX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975509473268465960",
+    "in_reply_to_user_id": "1918831724898951168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975446301933535301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYN1789927 生日快乐喵 https://t.co/K65WCPK6oX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1975509470768959488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2prZZ-akAAy-_h.jpg",
+        "width": 292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975509470768959488"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "1975446301933535301",
+        "created_at": "2025-10-07T10:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975509473268465960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918831724898951168",
+              "start": 0,
+              "username": "XYN1789927"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K65WCPK6oX",
+              "end": 41,
+              "expanded_url": "https://x.com/ji_chu25601/status/1975509473268465960/photo/1",
+              "media_key": "3_1975509470768959488",
+              "start": 18,
+              "url": "https://t.co/K65WCPK6oX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975509473268465960",
+        "in_reply_to_user_id": "1918831724898951168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975446301933535301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1789927 生日快乐喵 https://t.co/K65WCPK6oX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918831724898951168",
+        "conversation_id": "1975446301933535301",
+        "created_at": "2025-10-07T06:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975446301933535301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975446301933535301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是窝的生日喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "阴阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949191410424713216/N7cqee7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（），有时易燃易爆炸",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 127,
+          "like_count": 7551,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1753
+        },
+        "username": "XYN1789927",
+        "verified": false
+      }
+    ]
+  }
+}

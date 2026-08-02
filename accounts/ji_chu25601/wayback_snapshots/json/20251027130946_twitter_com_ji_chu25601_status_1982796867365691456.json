@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1978825509006926072",
+    "created_at": "2025-10-27T13:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T14:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982796867365691456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973788667249635330",
+          "start": 0,
+          "username": "WjIEWIg0V528840"
+        },
+        {
+          "end": 27,
+          "id": "1885154179922227200",
+          "start": 17,
+          "username": "Snow_Xue_"
+        },
+        {
+          "end": 41,
+          "id": "1830129345899188224",
+          "start": 28,
+          "username": "xiaoyi198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982796867365691456",
+    "in_reply_to_user_id": "1973788667249635330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980388705966997544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WjIEWIg0V528840 @Snow_Xue_ @xiaoyi198964 嗯我喜欢这个角色😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1978825509006926072",
+        "created_at": "2025-10-27T13:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982796867365691456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973788667249635330",
+              "start": 0,
+              "username": "WjIEWIg0V528840"
+            },
+            {
+              "end": 27,
+              "id": "1885154179922227200",
+              "start": 17,
+              "username": "Snow_Xue_"
+            },
+            {
+              "end": 41,
+              "id": "1830129345899188224",
+              "start": 28,
+              "username": "xiaoyi198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982796867365691456",
+        "in_reply_to_user_id": "1973788667249635330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980388705966997544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WjIEWIg0V528840 @Snow_Xue_ @xiaoyi198964 嗯我喜欢这个角色😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973788667249635330",
+        "conversation_id": "1978825509006926072",
+        "created_at": "2025-10-20T21:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T22:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980388705966997544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            },
+            {
+              "end": 23,
+              "id": "1885154179922227200",
+              "start": 13,
+              "username": "Snow_Xue_"
+            },
+            {
+              "end": 37,
+              "id": "1830129345899188224",
+              "start": 24,
+              "username": "xiaoyi198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980388705966997544",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978894785369821564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 @Snow_Xue_ @xiaoyi198964 ？由乃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:34:49.000Z",
+        "description": "唐代复国",
+        "id": "1973788667249635330",
+        "location": "唐代国 ",
+        "name": "刺钉党サヘサ反国组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976948746840862720/v7lFLGlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 612
+        },
+        "username": "WjIEWIg0V528840",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "...\n生产日期2010.3.16",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970142306306285568/T-ZSp293_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1354,
+          "like_count": 31959,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 2735
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:24:20.000Z",
+        "description": "梗图号，随缘回fo（不会看成分，也不会单取），自用梯子 https://t.co/LPf9qwXHFD    ccp远离我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "singlinkvpn.com",
+                "end": 51,
+                "expanded_url": "https://www.singlinkvpn.com/",
+                "start": 28,
+                "url": "https://t.co/LPf9qwXHFD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@user362016133…",
+                "end": 23,
+                "expanded_url": "http://tiktok.com/@user36201613338222",
+                "start": 0,
+                "url": "https://t.co/ePTkAC0If6"
+              }
+            ]
+          }
+        },
+        "id": "1830129345899188224",
+        "location": "Taiwan",
+        "name": "小翌同學✨🎊🍟🍺🍿",
+        "pinned_tweet_id": "1953668164589695301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967397641278681089/XsYvtUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4761,
+          "following_count": 5732,
+          "like_count": 19444,
+          "listed_count": 9,
+          "media_count": 404,
+          "tweet_count": 5895
+        },
+        "url": "https://t.co/ePTkAC0If6",
+        "username": "xiaoyi198964",
+        "verified": false
+      }
+    ]
+  }
+}

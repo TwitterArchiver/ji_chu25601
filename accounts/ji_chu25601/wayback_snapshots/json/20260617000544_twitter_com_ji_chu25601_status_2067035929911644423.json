@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067035927399284736"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2067035929911644423",
+    "created_at": "2026-06-17T00:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067035929911644423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KKjpxix9zc",
+          "end": 35,
+          "expanded_url": "https://x.com/ji_chu25601/status/2067035929911644423/photo/1",
+          "media_key": "3_2067035927399284736",
+          "start": 12,
+          "url": "https://t.co/KKjpxix9zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067035929911644423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给他骂了一顿 解气的呀 https://t.co/KKjpxix9zc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067035927399284736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-WOW6awAARXe6.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067035927399284736"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2067035929911644423",
+        "created_at": "2026-06-17T00:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067035929911644423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKjpxix9zc",
+              "end": 35,
+              "expanded_url": "https://x.com/ji_chu25601/status/2067035929911644423/photo/1",
+              "media_key": "3_2067035927399284736",
+              "start": 12,
+              "url": "https://t.co/KKjpxix9zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067035929911644423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给他骂了一顿 解气的呀 https://t.co/KKjpxix9zc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2066457296125972895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 118,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 441
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

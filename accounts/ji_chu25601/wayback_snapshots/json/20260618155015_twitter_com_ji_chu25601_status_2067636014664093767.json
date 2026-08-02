@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2067596762756657477",
+    "created_at": "2026-06-18T15:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067636014664093767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2066620369541410816",
+          "start": 0,
+          "username": "nkaxko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067636014664093767",
+    "in_reply_to_user_id": "2066620369541410816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067629465753329985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkaxko 好呀好呀我们一起去跳吧 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2067596762756657477",
+        "created_at": "2026-06-18T15:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067636014664093767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2066620369541410816",
+              "start": 0,
+              "username": "nkaxko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067636014664093767",
+        "in_reply_to_user_id": "2066620369541410816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067629465753329985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkaxko 好呀好呀我们一起去跳吧 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066620369541410816",
+        "conversation_id": "2067596762756657477",
+        "created_at": "2026-06-18T15:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067629465753329985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067629465753329985",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067596762756657477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 os 许愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 126,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T20:36:15.000Z",
+        "description": "叫我小透，ip 广州，我的私信开不了好无奈。现生母亲不管我，没有生活费所以来网上乞讨了，我啥都干。你们和我玩吧",
+        "id": "2066620369541410816",
+        "location": "爱喜巧克力",
+        "name": "透",
+        "pinned_tweet_id": "2066779795829248220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066925883039109122/Z78mc1du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 37,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "nkaxko",
+        "verified": false
+      }
+    ]
+  }
+}

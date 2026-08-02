@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2075018403451179496",
+    "created_at": "2026-07-09T16:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075261923218825424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2056128147389554688",
+          "start": 0,
+          "username": "xg92778"
+        },
+        {
+          "end": 23,
+          "id": "2016028559228469252",
+          "start": 9,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075261923218825424",
+    "in_reply_to_user_id": "2056128147389554688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075202563956457682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xg92778 @Alvvaysioffy1 墙内发od最小众最无辜了行了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2075018403451179496",
+        "created_at": "2026-07-09T16:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075261923218825424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2056128147389554688",
+              "start": 0,
+              "username": "xg92778"
+            },
+            {
+              "end": 23,
+              "id": "2016028559228469252",
+              "start": 9,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075261923218825424",
+        "in_reply_to_user_id": "2056128147389554688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075202563956457682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xg92778 @Alvvaysioffy1 墙内发od最小众最无辜了行了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056128147389554688",
+        "conversation_id": "2075018403451179496",
+        "created_at": "2026-07-09T12:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075202563956457682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075202563956457682",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075018403451179496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 大妈，你为什么不给我打个码这个关我屁事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 149,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T21:44:16.000Z",
+        "description": "09/165/56\n清水，不发黄，微擦边",
+        "id": "2056128147389554688",
+        "name": "无果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056626684342755328/0gs4n6Zs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 4,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "xg92778",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 229,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

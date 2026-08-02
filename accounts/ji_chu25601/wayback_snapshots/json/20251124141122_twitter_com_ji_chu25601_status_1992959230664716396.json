@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1992236122681098309",
+    "created_at": "2025-11-24T14:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T15:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992959230664716396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586638893574934528",
+          "start": 0,
+          "username": "yaginohone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992959230664716396",
+    "in_reply_to_user_id": "1586638893574934528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992236122681098309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaginohone 最右边的莫名好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1753,
+        "media_key": "3_1992201476303974400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6W4sAQbcAAFQ6f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1992236122681098309",
+        "created_at": "2025-11-24T14:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992959230664716396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586638893574934528",
+              "start": 0,
+              "username": "yaginohone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992959230664716396",
+        "in_reply_to_user_id": "1586638893574934528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992236122681098309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaginohone 最右边的莫名好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992201476303974400"
+          ]
+        },
+        "author_id": "1586638893574934528",
+        "conversation_id": "1992236122681098309",
+        "created_at": "2025-11-22T14:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992236122681098309"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "恐怖画像チャレンジ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDohUNDHAk",
+              "end": 34,
+              "expanded_url": "https://x.com/yaginohone/status/1992236122681098309/photo/1",
+              "media_key": "3_1992201476303974400",
+              "start": 11,
+              "url": "https://t.co/GDohUNDHAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992236122681098309",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9280,
+          "impression_count": 905234,
+          "like_count": 99595,
+          "quote_count": 620,
+          "reply_count": 91,
+          "retweet_count": 11605
+        },
+        "reply_settings": "everyone",
+        "text": "#恐怖画像チャレンジ https://t.co/GDohUNDHAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T08:39:37.000Z",
+        "description": "山羊骨 (yagihone) /artist/ lolly×gore☠️\ncontact↓",
+        "id": "1586638893574934528",
+        "location": "✉️yaginohone@gmail.com",
+        "name": "山羊骨",
+        "pinned_tweet_id": "1588429307407634433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931533147990331392/90ezrkmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 38,
+          "like_count": 126,
+          "listed_count": 9,
+          "media_count": 50,
+          "tweet_count": 58
+        },
+        "username": "yaginohone",
+        "verified": false
+      }
+    ]
+  }
+}

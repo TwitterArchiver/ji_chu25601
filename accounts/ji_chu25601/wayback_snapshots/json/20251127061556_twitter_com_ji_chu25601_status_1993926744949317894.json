@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1993880452734832779",
+    "created_at": "2025-11-27T06:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T07:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993926744949317894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918831724898951168",
+          "start": 0,
+          "username": "XYN1789927"
+        },
+        {
+          "end": 28,
+          "id": "1981563709102477312",
+          "start": 12,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993926744949317894",
+    "in_reply_to_user_id": "1918831724898951168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993924539059954050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYN1789927 @yui804275429451 没钱喵（你可以在私信说）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1993880452734832779",
+        "created_at": "2025-11-27T06:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993926744949317894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918831724898951168",
+              "start": 0,
+              "username": "XYN1789927"
+            },
+            {
+              "end": 28,
+              "id": "1981563709102477312",
+              "start": 12,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993926744949317894",
+        "in_reply_to_user_id": "1918831724898951168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993924539059954050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1789927 @yui804275429451 没钱喵（你可以在私信说）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918831724898951168",
+        "conversation_id": "1993880452734832779",
+        "created_at": "2025-11-27T06:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993924539059954050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            },
+            {
+              "end": 29,
+              "id": "1981563709102477312",
+              "start": 13,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993924539059954050",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993921768927756774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 @yui804275429451 小菲手办你买不买喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（），有时易燃易爆炸",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 131,
+          "like_count": 7895,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1875
+        },
+        "username": "XYN1789927",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 608,
+          "like_count": 1732,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 756
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

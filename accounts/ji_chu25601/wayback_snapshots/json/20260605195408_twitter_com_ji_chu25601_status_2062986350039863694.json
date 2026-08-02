@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062454268213579776",
+        "3_2062454268163174400"
+      ],
+      "media_source_tweet_id": [
+        "2062454281257832564",
+        "2062454281257832564"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2062986350039863694",
+    "created_at": "2026-06-05T19:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T20:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062986350039863694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026548163004559360",
+          "start": 3,
+          "username": "Ninaaapple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5V908ERGAM",
+          "end": 92,
+          "expanded_url": "https://x.com/Ninaaapple/status/2062454281257832564/photo/1",
+          "media_key": "3_2062454268213579776",
+          "start": 69,
+          "url": "https://t.co/5V908ERGAM"
+        },
+        {
+          "display_url": "pic.x.com/5V908ERGAM",
+          "end": 92,
+          "expanded_url": "https://x.com/Ninaaapple/status/2062454281257832564/photo/1",
+          "media_key": "3_2062454268163174400",
+          "start": 69,
+          "url": "https://t.co/5V908ERGAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062986350039863694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062454281257832564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ninaaapple: 新的自介条\n之前的被封了\n双相/od/自伤/废话/🚬\n欢迎餐券妹来找我交朋友/互fo哦\n令：我正在征婚🫪 https://t.co/5V908ERGAM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062454268213579776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9POsZb0AABdeH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2062454268163174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9POsNasAAyTLX.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062454268213579776",
+            "3_2062454268163174400"
+          ],
+          "media_source_tweet_id": [
+            "2062454281257832564",
+            "2062454281257832564"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2062986350039863694",
+        "created_at": "2026-06-05T19:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062986350039863694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026548163004559360",
+              "start": 3,
+              "username": "Ninaaapple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5V908ERGAM",
+              "end": 92,
+              "expanded_url": "https://x.com/Ninaaapple/status/2062454281257832564/photo/1",
+              "media_key": "3_2062454268213579776",
+              "start": 69,
+              "url": "https://t.co/5V908ERGAM"
+            },
+            {
+              "display_url": "pic.x.com/5V908ERGAM",
+              "end": 92,
+              "expanded_url": "https://x.com/Ninaaapple/status/2062454281257832564/photo/1",
+              "media_key": "3_2062454268163174400",
+              "start": 69,
+              "url": "https://t.co/5V908ERGAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062986350039863694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062454281257832564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ninaaapple: 新的自介条\n之前的被封了\n双相/od/自伤/废话/🚬\n欢迎餐券妹来找我交朋友/互fo哦\n令：我正在征婚🫪 https://t.co/5V908ERGAM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062454268213579776",
+            "3_2062454268163174400"
+          ]
+        },
+        "author_id": "2026548163004559360",
+        "conversation_id": "2062454281257832564",
+        "created_at": "2026-06-04T08:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062454281257832564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5V908ERGAM",
+              "end": 76,
+              "expanded_url": "https://x.com/Ninaaapple/status/2062454281257832564/photo/1",
+              "media_key": "3_2062454268213579776",
+              "start": 53,
+              "url": "https://t.co/5V908ERGAM"
+            },
+            {
+              "display_url": "pic.x.com/5V908ERGAM",
+              "end": 76,
+              "expanded_url": "https://x.com/Ninaaapple/status/2062454281257832564/photo/1",
+              "media_key": "3_2062454268163174400",
+              "start": 53,
+              "url": "https://t.co/5V908ERGAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062454281257832564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4176,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "新的自介条\n之前的被封了\n双相/od/自伤/废话/🚬\n欢迎餐券妹来找我交朋友/互fo哦\n令：我正在征婚🫪 https://t.co/5V908ERGAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 79,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 336
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T06:43:10.000Z",
+        "description": "I'm Nina.🏳️‍🌈\nIloveyouforeverIhateyouforever",
+        "id": "2026548163004559360",
+        "location": "瑞士 沃",
+        "name": "Nina",
+        "pinned_tweet_id": "2062454281257832564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046083071716339712/T8jhO2Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 140,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 141
+        },
+        "username": "Ninaaapple",
+        "verified": false
+      }
+    ]
+  }
+}

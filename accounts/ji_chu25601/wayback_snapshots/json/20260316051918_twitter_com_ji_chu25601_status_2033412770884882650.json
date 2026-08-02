@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2032847160505676003",
+    "created_at": "2026-03-16T05:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033412770884882650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1492837276501565440",
+          "start": 0,
+          "username": "putoovo"
+        },
+        {
+          "end": 19,
+          "id": "1261560609214087168",
+          "start": 9,
+          "username": "Cathy_eko"
+        },
+        {
+          "end": 33,
+          "id": "2029257641579720704",
+          "start": 20,
+          "username": "cangshu_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033412770884882650",
+    "in_reply_to_user_id": "1492837276501565440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033207185753473256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@putoovo @Cathy_eko @cangshu_king 不像调情像霸凌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2032847160505676003",
+        "created_at": "2026-03-16T05:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033412770884882650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1492837276501565440",
+              "start": 0,
+              "username": "putoovo"
+            },
+            {
+              "end": 19,
+              "id": "1261560609214087168",
+              "start": 9,
+              "username": "Cathy_eko"
+            },
+            {
+              "end": 33,
+              "id": "2029257641579720704",
+              "start": 20,
+              "username": "cangshu_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033412770884882650",
+        "in_reply_to_user_id": "1492837276501565440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033207185753473256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@putoovo @Cathy_eko @cangshu_king 不像调情像霸凌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492837276501565440",
+        "conversation_id": "2032847160505676003",
+        "created_at": "2026-03-15T15:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033207185753473256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            },
+            {
+              "end": 24,
+              "id": "2029257641579720704",
+              "start": 11,
+              "username": "cangshu_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033207185753473256",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1292,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033201282165727299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko @cangshu_king 主要是说话口气也是霸凌的感觉 难受的要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 158
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T12:25:24.000Z",
+        "description": "喜欢帅哥/性癖是真心相爱/不回私信没有微信/这是我的匿名信箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/putoo31831",
+                "end": 23,
+                "expanded_url": "https://ngl.link/putoo31831",
+                "start": 0,
+                "url": "https://t.co/FndszYyYz7"
+              }
+            ]
+          }
+        },
+        "id": "1492837276501565440",
+        "name": "Putoo",
+        "pinned_tweet_id": "1988698209028571476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887761528335835136/jmFxPlMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 84,
+          "like_count": 2343,
+          "listed_count": 5,
+          "media_count": 82,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/FndszYyYz7",
+        "username": "putoovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "备用 @Cathylp1984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Cathylp1984"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "奇美拉咖啡馆",
+        "name": "南茜",
+        "pinned_tweet_id": "2004776930277818567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4637,
+          "following_count": 1319,
+          "like_count": 146530,
+          "listed_count": 57,
+          "media_count": 6007,
+          "tweet_count": 61333
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T18:08:29.000Z",
+        "description": "4i=1i switch千千万万 明心见己\n别给我发私信想加我微信就给我转五千",
+        "id": "2029257641579720704",
+        "name": "好学的仓鼠大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033369181723451392/fjQ7T8yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 28,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 152
+        },
+        "username": "cangshu_king",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1953064677342363798",
+    "created_at": "2025-08-06T12:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T13:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953067692086444222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918831724898951168",
+          "start": 0,
+          "username": "XYN1789927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953067692086444222",
+    "in_reply_to_user_id": "1918831724898951168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953064677342363798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYN1789927 味真族这一块😋不过也不算太胖吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1953064677342363798",
+        "created_at": "2025-08-06T12:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953067692086444222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918831724898951168",
+              "start": 0,
+              "username": "XYN1789927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953067692086444222",
+        "in_reply_to_user_id": "1918831724898951168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953064677342363798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1789927 味真族这一块😋不过也不算太胖吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918831724898951168",
+        "conversation_id": "1953064677342363798",
+        "created_at": "2025-08-06T12:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953064677342363798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953064677342363798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是大胃袋，168/120"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "Akira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949191410424713216/N7cqee7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（），有时易燃易爆炸",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 116,
+          "like_count": 4997,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1236
+        },
+        "username": "XYN1789927",
+        "verified": false
+      }
+    ]
+  }
+}

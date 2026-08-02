@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070898814828060672"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2070898817243967916",
+    "created_at": "2026-06-27T15:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070898817243967916"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "永雏塔菲"
+        },
+        {
+          "end": 11,
+          "start": 6,
+          "tag": "唐朝美人"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mO3JDiTId9",
+          "end": 50,
+          "expanded_url": "https://x.com/ji_chu25601/status/2070898817243967916/photo/1",
+          "media_key": "3_2070898814828060672",
+          "start": 27,
+          "url": "https://t.co/mO3JDiTId9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070898817243967916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#永雏塔菲 #唐朝美人 关注塔菲喵我想跟你们互fo呀 https://t.co/mO3JDiTId9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070898814828060672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1Pf_-aoAAp1vf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070898814828060672"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2070898817243967916",
+        "created_at": "2026-06-27T15:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070898817243967916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "永雏塔菲"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "唐朝美人"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mO3JDiTId9",
+              "end": 50,
+              "expanded_url": "https://x.com/ji_chu25601/status/2070898817243967916/photo/1",
+              "media_key": "3_2070898814828060672",
+              "start": 27,
+              "url": "https://t.co/mO3JDiTId9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070898817243967916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#永雏塔菲 #唐朝美人 关注塔菲喵我想跟你们互fo呀 https://t.co/mO3JDiTId9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 148,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

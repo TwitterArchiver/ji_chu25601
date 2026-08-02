@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2059607789123875077",
+    "created_at": "2026-05-27T23:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T00:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059776920796241972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057055984338833408",
+          "start": 0,
+          "username": "Yuramyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059776920796241972",
+    "in_reply_to_user_id": "2057055984338833408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059607789123875077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuramyn 给钱后搞个狗的给的他"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2059607786569515008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUyXp8awAANHa2.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059607789123875077",
+        "created_at": "2026-05-27T23:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059776920796241972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057055984338833408",
+              "start": 0,
+              "username": "Yuramyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059776920796241972",
+        "in_reply_to_user_id": "2057055984338833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059607789123875077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuramyn 给钱后搞个狗的给的他"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059607786569515008"
+          ]
+        },
+        "author_id": "2057055984338833408",
+        "conversation_id": "2059607789123875077",
+        "created_at": "2026-05-27T12:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059607789123875077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aj2RmfL7GY",
+              "end": 45,
+              "expanded_url": "https://x.com/Yuramyn/status/2059607789123875077/photo/1",
+              "media_key": "3_2059607786569515008",
+              "start": 22,
+              "url": "https://t.co/aj2RmfL7GY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059607789123875077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3338,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这他喵的是啥啊，我刚吃完饭要被恶心死了…… https://t.co/aj2RmfL7GY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 66,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 268
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T11:11:44.000Z",
+        "description": "22 ，社交孤儿，个人xp：杂食",
+        "id": "2057055984338833408",
+        "name": "鱼鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058189035542372352/6mVkFU1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 22,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "username": "Yuramyn",
+        "verified": false
+      }
+    ]
+  }
+}

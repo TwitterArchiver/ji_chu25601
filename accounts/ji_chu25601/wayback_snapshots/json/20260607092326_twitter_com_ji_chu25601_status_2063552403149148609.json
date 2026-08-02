@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2063024687547047970",
+    "created_at": "2026-06-07T09:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063552403149148609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "mili_bugia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063552403149148609",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063024687547047970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mili_bugia 我吃过10t剧烈呕吐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2063024682480410624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFWBLIboAAseCe.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2063024687547047970",
+        "created_at": "2026-06-07T09:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063552403149148609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "mili_bugia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063552403149148609",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063024687547047970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mili_bugia 我吃过10t剧烈呕吐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063024682480410624"
+          ]
+        },
+        "author_id": "1627860014114168833",
+        "conversation_id": "2063024687547047970",
+        "created_at": "2026-06-05T22:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T23:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063024687547047970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bmiar48R0U",
+              "end": 38,
+              "expanded_url": "https://x.com/mili_bugia/status/2063024687547047970/photo/1",
+              "media_key": "3_2063024682480410624",
+              "start": 15,
+              "url": "https://t.co/Bmiar48R0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063024687547047970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据说巴氯芬能止吐，买一盒试试 https://t.co/Bmiar48R0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 83,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 351
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "第五高原的背后是什么，你不应告诉我，我自己会去看",
+        "id": "1627860014114168833",
+        "name": "雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 69,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "mili_bugia",
+        "verified": false
+      }
+    ]
+  }
+}

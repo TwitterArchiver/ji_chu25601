@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2066931223021154656",
+    "created_at": "2026-06-16T18:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066949877800874119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1182989706948165632",
+          "start": 0,
+          "username": "dustthepoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066949877800874119",
+    "in_reply_to_user_id": "1182989706948165632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066947362090614908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dustthepoet 这个可能是评论互动之类的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066947362090614908].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066947362090614908",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066947362090614908"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2066931223021154656",
+        "created_at": "2026-06-16T18:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066949877800874119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182989706948165632",
+              "start": 0,
+              "username": "dustthepoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066949877800874119",
+        "in_reply_to_user_id": "1182989706948165632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066947362090614908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dustthepoet 这个可能是评论互动之类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2066457296125972895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 117,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 434
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T12:01:46.000Z",
+        "description": "I cannot live without you @evelyn_notfound",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "evelyn_notfound"
+              }
+            ]
+          }
+        },
+        "id": "1182989706948165632",
+        "location": "Your heart",
+        "name": "你有在药效中吗",
+        "pinned_tweet_id": "1911666309072408929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042965905186131975/DXExeqbT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 396,
+          "like_count": 8059,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 2279
+        },
+        "username": "dustthepoet",
+        "verified": false
+      }
+    ]
+  }
+}

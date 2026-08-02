@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2062271253113704825",
+    "created_at": "2026-06-05T05:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062762444590883146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812163942179065856",
+          "start": 0,
+          "username": "RainAnnoy17"
+        },
+        {
+          "end": 21,
+          "id": "2052211450131955712",
+          "start": 13,
+          "username": "n2250_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062762444590883146",
+    "in_reply_to_user_id": "1812163942179065856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062365099432825015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainAnnoy17 @n2250_o 不要天天在网上无聊刻薄撕比了你值得被爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2062271253113704825",
+        "created_at": "2026-06-05T05:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062762444590883146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812163942179065856",
+              "start": 0,
+              "username": "RainAnnoy17"
+            },
+            {
+              "end": 21,
+              "id": "2052211450131955712",
+              "start": 13,
+              "username": "n2250_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062762444590883146",
+        "in_reply_to_user_id": "1812163942179065856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062365099432825015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainAnnoy17 @n2250_o 不要天天在网上无聊刻薄撕比了你值得被爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812163942179065856",
+        "conversation_id": "2062271253113704825",
+        "created_at": "2026-06-04T02:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062365099432825015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052211450131955712",
+              "start": 0,
+              "username": "n2250_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062365099432825015",
+        "in_reply_to_user_id": "2052211450131955712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5361,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062271253113704825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n2250_o 真他妈的恶心，滚臭婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 74,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 325
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T16:35:38.000Z",
+        "description": "",
+        "id": "1812163942179065856",
+        "name": "Yeyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812322791825227776/LA9xjNbA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 131
+        },
+        "username": "RainAnnoy17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T02:22:16.000Z",
+        "description": "to love me is to suffer me",
+        "id": "2052211450131955712",
+        "location": "20 ♡ DNI NSFW ACCOUNTS",
+        "name": "nelka ♡",
+        "pinned_tweet_id": "2062164007457378810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060145200354189312/Z6zmjqYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 179,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 385
+        },
+        "username": "n2250_o",
+        "verified": false
+      }
+    ]
+  }
+}

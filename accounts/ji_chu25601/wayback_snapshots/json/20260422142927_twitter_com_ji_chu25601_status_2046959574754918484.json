@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2046821263054913688",
+    "created_at": "2026-04-22T14:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046959574754918484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046959574754918484",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046821263054913688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 退啥留着吃啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046821250564235264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfFFTaaIAA_LIA.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2046821263054913688",
+        "created_at": "2026-04-22T14:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046959574754918484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046959574754918484",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046821263054913688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 退啥留着吃啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046821250564235264"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "2046821263054913688",
+        "created_at": "2026-04-22T05:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046821263054913688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lwh37JAb5H",
+              "end": 56,
+              "expanded_url": "https://x.com/Swathy17531761/status/2046821263054913688/photo/1",
+              "media_key": "3_2046821250564235264",
+              "start": 33,
+              "url": "https://t.co/Lwh37JAb5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046821263054913688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1216,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "退还是不退pr80。。。吃金刚烷胺94片差一点去异世界了 #od https://t.co/Lwh37JAb5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 36,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 156
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝~?身高\n165cm/目前体重125斤左右//随缘/可线下一起玩/不会怀孕/MTF",
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040005569478823936/cQhh4SPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2655,
+          "following_count": 82,
+          "like_count": 14,
+          "listed_count": 6,
+          "media_count": 81,
+          "tweet_count": 429
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

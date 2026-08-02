@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2064188369832407430",
+    "created_at": "2026-06-09T10:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064287258669428943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945362641876344833",
+          "start": 0,
+          "username": "375QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064287258669428943",
+    "in_reply_to_user_id": "1945362641876344833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064259298818191852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@375QWQ 没错呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2064188369832407430",
+        "created_at": "2026-06-09T10:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064287258669428943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945362641876344833",
+              "start": 0,
+              "username": "375QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064287258669428943",
+        "in_reply_to_user_id": "1945362641876344833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064259298818191852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@375QWQ 没错呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945362641876344833",
+        "conversation_id": "2064188369832407430",
+        "created_at": "2026-06-09T08:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064259298818191852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064259298818191852",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064188369832407430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 虽然说是关心但是这很烦内"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 90,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 362
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T05:59:51.000Z",
+        "description": "",
+        "id": "1945362641876344833",
+        "name": "375QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959271902045974528/uRpOIivu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 44,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "375QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

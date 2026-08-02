@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1980651631630021039",
+    "created_at": "2025-10-23T08:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T09:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981269859507064880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "721256288135434241",
+          "start": 0,
+          "username": "Zzzzzzyj020822"
+        },
+        {
+          "end": 29,
+          "id": "622036546",
+          "start": 16,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981269859507064880",
+    "in_reply_to_user_id": "721256288135434241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981018826264518784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzzzzzyj020822 @overdose_six 看Emoji是dy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1980651631630021039",
+        "created_at": "2025-10-23T08:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T09:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981269859507064880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "721256288135434241",
+              "start": 0,
+              "username": "Zzzzzzyj020822"
+            },
+            {
+              "end": 29,
+              "id": "622036546",
+              "start": 16,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981269859507064880",
+        "in_reply_to_user_id": "721256288135434241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981018826264518784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzzzzzyj020822 @overdose_six 看Emoji是dy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "721256288135434241",
+        "conversation_id": "1980651631630021039",
+        "created_at": "2025-10-22T15:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981018826264518784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981018826264518784",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980651631630021039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 这是 ks 还是 dy 我问问 我要私信去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-16T08:37:54.000Z",
+        "description": "双",
+        "id": "721256288135434241",
+        "location": "Kowloon City District",
+        "name": "老师好我叫白毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680090833171906560/deh9Ric9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 133,
+          "like_count": 734,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 340
+        },
+        "username": "Zzzzzzyj020822",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc | 药物代购 | 报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbmW1y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 91,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 68,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980694433151467520/szS4Q9Eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 76,
+          "like_count": 10886,
+          "listed_count": 8,
+          "media_count": 441,
+          "tweet_count": 3139
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

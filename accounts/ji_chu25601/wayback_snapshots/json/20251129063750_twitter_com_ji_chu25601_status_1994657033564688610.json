@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994657030351851521"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "1994657033564688610",
+    "created_at": "2025-11-29T06:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994657033564688610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DnZrbWpWzv",
+          "end": 23,
+          "expanded_url": "https://x.com/ji_chu25601/status/1994657033564688610/photo/1",
+          "media_key": "3_1994657030351851521",
+          "start": 0,
+          "url": "https://t.co/DnZrbWpWzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994657033564688610",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/DnZrbWpWzv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1733,
+        "media_key": "3_1994657030351851521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65yAD7bkAEnf4J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994657030351851521"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "1994657033564688610",
+        "created_at": "2025-11-29T06:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994657033564688610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnZrbWpWzv",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/1994657033564688610/photo/1",
+              "media_key": "3_1994657030351851521",
+              "start": 0,
+              "url": "https://t.co/DnZrbWpWzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994657033564688610",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DnZrbWpWzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

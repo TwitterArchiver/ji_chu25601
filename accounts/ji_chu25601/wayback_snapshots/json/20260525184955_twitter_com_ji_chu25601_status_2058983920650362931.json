@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2058983920650362931",
+    "created_at": "2026-05-25T18:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058983920650362931"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058983920650362931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实有时候戒断反应的时候或者是pr慢慢缓下来我就会觉得我的行为有点傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2058983920650362931",
+        "created_at": "2026-05-25T18:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058983920650362931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058983920650362931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有时候戒断反应的时候或者是pr慢慢缓下来我就会觉得我的行为有点傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 221
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1962795548588790218",
+    "created_at": "2025-09-02T08:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T09:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962795548588790218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962795548588790218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我c啊啊啊！剪完头发的我还没之前的好看卧槽这个丑八怪到底是谁啊！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1962795548588790218",
+        "created_at": "2025-09-02T08:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962795548588790218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962795548588790218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我c啊啊啊！剪完头发的我还没之前的好看卧槽这个丑八怪到底是谁啊！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949191410424713216/N7cqee7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

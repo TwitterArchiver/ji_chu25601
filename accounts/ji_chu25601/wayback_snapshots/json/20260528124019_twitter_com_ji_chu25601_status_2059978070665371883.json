@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2059595779535503771",
+    "created_at": "2026-05-28T12:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059978070665371883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929199693877161984",
+          "start": 0,
+          "username": "ynqrn214657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059978070665371883",
+    "in_reply_to_user_id": "1929199693877161984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059976108679033309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynqrn214657 精品神药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059595779535503771",
+        "created_at": "2026-05-28T12:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059978070665371883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929199693877161984",
+              "start": 0,
+              "username": "ynqrn214657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059978070665371883",
+        "in_reply_to_user_id": "1929199693877161984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059976108679033309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynqrn214657 精品神药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929199693877161984",
+        "conversation_id": "2059595779535503771",
+        "created_at": "2026-05-28T12:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059976108679033309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059976108679033309",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059595779535503771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 普瑞巴林是什么药啊，为啥子要囤这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 76,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 274
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T15:34:02.000Z",
+        "description": "",
+        "id": "1929199693877161984",
+        "location": "太原市",
+        "name": "尹柒染",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929201429916344320/Ok0-ZhLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "ynqrn214657",
+        "verified": false
+      }
+    ]
+  }
+}

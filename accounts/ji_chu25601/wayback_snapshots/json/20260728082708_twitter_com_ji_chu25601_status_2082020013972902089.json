@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2082020013972902089",
+    "created_at": "2026-07-28T08:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082020013972902089"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082020013972902089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我宁愿沉浸在右美沙芬的幻觉里永远当个现实中的傻子我这几个吃普瑞巴林确实是精力很旺盛但是我真的好累呀我不想对朋友产生厌恶感但是是控制不住的没有产生厌恶感的有疏远我的我无疑是伤心的要不就是偶尔聊一两句的朋友就是那种形影不离的朋友基本没有基本换了一次又一次我感觉我有点受够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2082020013972902089",
+        "created_at": "2026-07-28T08:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082020013972902089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082020013972902089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宁愿沉浸在右美沙芬的幻觉里永远当个现实中的傻子我这几个吃普瑞巴林确实是精力很旺盛但是我真的好累呀我不想对朋友产生厌恶感但是是控制不住的没有产生厌恶感的有疏远我的我无疑是伤心的要不就是偶尔聊一两句的朋友就是那种形影不离的朋友基本没有基本换了一次又一次我感觉我有点受够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 152,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

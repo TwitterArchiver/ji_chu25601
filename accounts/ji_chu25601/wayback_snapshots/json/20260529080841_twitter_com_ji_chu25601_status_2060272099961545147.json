@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060272097558224897"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2060272099961545147",
+    "created_at": "2026-05-29T08:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060272099961545147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WtW3u0uA9T",
+          "end": 53,
+          "expanded_url": "https://x.com/ji_chu25601/status/2060272099961545147/photo/1",
+          "media_key": "3_2060272097558224897",
+          "start": 30,
+          "url": "https://t.co/WtW3u0uA9T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060272099961545147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "扩列(这是小号加我的时候备注一下推特号因为我要查一下成分) https://t.co/WtW3u0uA9T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2060272097558224897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeOjpObYAEGd7B.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060272097558224897"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2060272099961545147",
+        "created_at": "2026-05-29T08:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060272099961545147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtW3u0uA9T",
+              "end": 53,
+              "expanded_url": "https://x.com/ji_chu25601/status/2060272099961545147/photo/1",
+              "media_key": "3_2060272097558224897",
+              "start": 30,
+              "url": "https://t.co/WtW3u0uA9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060272099961545147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扩列(这是小号加我的时候备注一下推特号因为我要查一下成分) https://t.co/WtW3u0uA9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 79,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 281
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

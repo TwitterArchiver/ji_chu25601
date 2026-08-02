@@ -1,0 +1,863 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1722614845063970816"
+      ],
+      "media_source_tweet_id": [
+        "1722615018586566947"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "1923889154326397173",
+    "created_at": "2025-05-17T23:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T00:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923889154326397173"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "yangire",
+          "probability": 0.5104,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 54,
+          "normalized_text": "saikonosutoka",
+          "probability": 0.6509,
+          "start": 42,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "saikochan",
+          "probability": 0.4893,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 74,
+          "normalized_text": "blender",
+          "probability": 0.4772,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 32,
+          "tag": "yangire"
+        },
+        {
+          "end": 55,
+          "start": 41,
+          "tag": "saikonosutoka"
+        },
+        {
+          "end": 66,
+          "start": 56,
+          "tag": "saikochan"
+        },
+        {
+          "end": 75,
+          "start": 67,
+          "tag": "blender"
+        },
+        {
+          "end": 86,
+          "start": 76,
+          "tag": "animation"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685003972136849409",
+          "start": 3,
+          "username": "CrovoClash"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TdXfhqOvNM",
+          "end": 110,
+          "expanded_url": "https://x.com/CrovoClash/status/1722615018586566947/photo/1",
+          "media_key": "16_1722614845063970816",
+          "start": 87,
+          "url": "https://t.co/TdXfhqOvNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923889154326397173",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1722615018586566947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrovoClash: Yangire stare.\n\n#yangire #saikonosutoka #saikochan #blender #animation https://t.co/TdXfhqOvNM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 254,
+        "media_key": "16_1722614845063970816",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/F-f1EyTaQAA5FTY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/F-f1EyTaQAA5FTY.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1722614845063970816"
+          ],
+          "media_source_tweet_id": [
+            "1722615018586566947"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "1923889154326397173",
+        "created_at": "2025-05-17T23:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T00:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923889154326397173"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "yangire",
+              "probability": 0.5104,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "saikonosutoka",
+              "probability": 0.6509,
+              "start": 42,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "saikochan",
+              "probability": 0.4893,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "blender",
+              "probability": 0.4772,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "yangire"
+            },
+            {
+              "end": 55,
+              "start": 41,
+              "tag": "saikonosutoka"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "saikochan"
+            },
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "blender"
+            },
+            {
+              "end": 86,
+              "start": 76,
+              "tag": "animation"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685003972136849409",
+              "start": 3,
+              "username": "CrovoClash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdXfhqOvNM",
+              "end": 110,
+              "expanded_url": "https://x.com/CrovoClash/status/1722615018586566947/photo/1",
+              "media_key": "16_1722614845063970816",
+              "start": 87,
+              "url": "https://t.co/TdXfhqOvNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923889154326397173",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1722615018586566947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrovoClash: Yangire stare.\n\n#yangire #saikonosutoka #saikochan #blender #animation https://t.co/TdXfhqOvNM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1722614845063970816"
+          ]
+        },
+        "author_id": "1685003972136849409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "1722615018586566947",
+        "created_at": "2023-11-09T13:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-09T14:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1722615018586566947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "yangire",
+              "probability": 0.5587,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "saikonosutoka",
+              "probability": 0.6865,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "saikochan",
+              "probability": 0.5373,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "blender",
+              "probability": 0.5344,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "yangire"
+            },
+            {
+              "end": 39,
+              "start": 25,
+              "tag": "saikonosutoka"
+            },
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "saikochan"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "blender"
+            },
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "animation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdXfhqOvNM",
+              "end": 94,
+              "expanded_url": "https://x.com/CrovoClash/status/1722615018586566947/photo/1",
+              "media_key": "16_1722614845063970816",
+              "start": 71,
+              "url": "https://t.co/TdXfhqOvNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1722615018586566947",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1255,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Yangire stare.\n\n#yangire #saikonosutoka #saikochan #blender #animation https://t.co/TdXfhqOvNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "焱音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919420516131323904/tnYV7Fxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T19:07:32.000Z",
+        "description": "I Don't feel anything anymore.",
+        "id": "1685003972136849409",
+        "name": "IMAGINATIONCLASH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819074334427897856/F8ajEDkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 232,
+          "like_count": 10679,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 739
+        },
+        "username": "CrovoClash",
+        "verified": true
+      }
+    ]
+  }
+}

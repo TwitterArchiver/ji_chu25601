@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2053820430239334832",
+    "created_at": "2026-05-11T14:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053838612719161494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2015213345847300096",
+          "start": 0,
+          "username": "XynUnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053838612719161494",
+    "in_reply_to_user_id": "2015213345847300096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053820430239334832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynUnk 不知道你知道了可以告诉我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2053820430239334832",
+        "created_at": "2026-05-11T14:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053838612719161494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015213345847300096",
+              "start": 0,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053838612719161494",
+        "in_reply_to_user_id": "2015213345847300096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053820430239334832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynUnk 不知道你知道了可以告诉我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015213345847300096",
+        "conversation_id": "2053820430239334832",
+        "created_at": "2026-05-11T12:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053820430239334832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053820430239334832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚盐怎么买……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 36,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 184
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "（此号休眠中😪😴）这是某人的小号\n大号@UnkXyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "UnkXyn"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "Unk~🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053140552099749888/BhRMG_MC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 308,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

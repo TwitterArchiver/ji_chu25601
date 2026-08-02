@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1978740449650123047",
+    "created_at": "2025-10-17T07:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T08:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979085522183295442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759658060459745280",
+          "start": 0,
+          "username": "shnme131817"
+        },
+        {
+          "end": 20,
+          "id": "1513240066982031360",
+          "start": 13,
+          "username": "X4411Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979085522183295442",
+    "in_reply_to_user_id": "1759658060459745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978875244598431836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shnme131817 @X4411Y 谁偷拍我照片了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_1978875242014466048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ZgjE8WYAAGDbI.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1978740449650123047",
+        "created_at": "2025-10-17T07:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979085522183295442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759658060459745280",
+              "start": 0,
+              "username": "shnme131817"
+            },
+            {
+              "end": 20,
+              "id": "1513240066982031360",
+              "start": 13,
+              "username": "X4411Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979085522183295442",
+        "in_reply_to_user_id": "1759658060459745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978875244598431836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shnme131817 @X4411Y 谁偷拍我照片了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978875242014466048"
+          ]
+        },
+        "author_id": "1759658060459745280",
+        "conversation_id": "1978740449650123047",
+        "created_at": "2025-10-16T17:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T18:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978875244598431836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1513240066982031360",
+              "start": 0,
+              "username": "X4411Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwXLYaQ8q1",
+              "end": 31,
+              "expanded_url": "https://x.com/shnme131817/status/1978875244598431836/photo/1",
+              "media_key": "3_1978875242014466048",
+              "start": 8,
+              "url": "https://t.co/EwXLYaQ8q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978875244598431836",
+        "in_reply_to_user_id": "1513240066982031360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5751,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978740449650123047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X4411Y https://t.co/EwXLYaQ8q1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T19:16:02.000Z",
+        "description": "",
+        "id": "1759658060459745280",
+        "name": "半",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800944598057091077/isaJG8vw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 53,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 272
+        },
+        "username": "shnme131817",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T19:38:56.000Z",
+        "description": "我是女人^ ^ ，不是T不是1，如果可以请别用男性词汇形容我，感谢你的喜欢丨防失踪炸推与小猫@4Ss1_ 丨匿名箱！https://t.co/Bqee1qZf94",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 46,
+                "username": "4Ss1_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mayis75321",
+                "end": 81,
+                "expanded_url": "https://ngl.link/mayis75321",
+                "start": 58,
+                "url": "https://t.co/Bqee1qZf94"
+              }
+            ]
+          }
+        },
+        "id": "1513240066982031360",
+        "name": "冷傲退姬佬",
+        "pinned_tweet_id": "1884969910272708902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952375405861888000/c34NmwJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11788,
+          "following_count": 352,
+          "like_count": 14631,
+          "listed_count": 19,
+          "media_count": 483,
+          "tweet_count": 10729
+        },
+        "username": "X4411Y",
+        "verified": false
+      }
+    ]
+  }
+}

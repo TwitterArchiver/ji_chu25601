@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2067538551303262498",
+    "created_at": "2026-06-18T20:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067709842937282930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1558757725797986305",
+          "start": 0,
+          "username": "Hemlock_113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067709842937282930",
+    "in_reply_to_user_id": "1558757725797986305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067538551303262498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hemlock_113 我和我的普瑞巴林已经在一起锁死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067538543111733248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFfWcWagAAEd6C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2067538551303262498",
+        "created_at": "2026-06-18T20:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067709842937282930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558757725797986305",
+              "start": 0,
+              "username": "Hemlock_113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067709842937282930",
+        "in_reply_to_user_id": "1558757725797986305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067538551303262498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_113 我和我的普瑞巴林已经在一起锁死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067538543111733248"
+          ]
+        },
+        "author_id": "1558757725797986305",
+        "conversation_id": "2067538551303262498",
+        "created_at": "2026-06-18T09:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067538551303262498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4XOYJ3iVi",
+              "end": 29,
+              "expanded_url": "https://x.com/Hemlock_113/status/2067538551303262498/photo/1",
+              "media_key": "3_2067538543111733248",
+              "start": 6,
+              "url": "https://t.co/B4XOYJ3iVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067538551303262498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 854,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的爱人🤤 https://t.co/B4XOYJ3iVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 129,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:09:46.000Z",
+        "description": "🇭🇰HK 10 单机透明人\nod｜自伤｜碎碎念｜小作文\n严重社交恐惧 低情商 查成分互fo\n接线下纯绿半绿",
+        "id": "1558757725797986305",
+        "name": "凝檬_☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066790354574262272/2zzscryn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 153,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "Hemlock_113",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2059549898123706830",
+    "created_at": "2026-05-27T15:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059665401341235301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455168885905190917",
+          "start": 0,
+          "username": "Misawa28s"
+        },
+        {
+          "end": 22,
+          "id": "2040070879888220160",
+          "start": 11,
+          "username": "Yumi320521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059665401341235301",
+    "in_reply_to_user_id": "1455168885905190917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059659732634448130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misawa28s @Yumi320521 一次一盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059549898123706830",
+        "created_at": "2026-05-27T15:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059665401341235301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455168885905190917",
+              "start": 0,
+              "username": "Misawa28s"
+            },
+            {
+              "end": 22,
+              "id": "2040070879888220160",
+              "start": 11,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059665401341235301",
+        "in_reply_to_user_id": "1455168885905190917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059659732634448130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misawa28s @Yumi320521 一次一盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455168885905190917",
+        "conversation_id": "2059549898123706830",
+        "created_at": "2026-05-27T15:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059659732634448130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            },
+            {
+              "end": 24,
+              "id": "2040070879888220160",
+              "start": 13,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059659732634448130",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059610854711337203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 @Yumi320521 吃多少，对比 pr 的话？150mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059013659037417923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 59,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 257
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T13:44:40.000Z",
+        "description": "",
+        "id": "1455168885905190917",
+        "name": "🌊🌊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604877446897053699/Fs1OQmtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 48,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 56
+        },
+        "username": "Misawa28s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi \n桃井爱莉｜地雷系｜od｜自残｜ISFP\n记录自己和家女的日常 会发自拍和碎碎念 欢迎互fo哦\n备用号@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2056785918099603704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050413180728590336/fJ8R54OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 76,
+          "like_count": 1892,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 608
+        },
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

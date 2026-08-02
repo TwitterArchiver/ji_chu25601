@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2064425662698721498",
+    "created_at": "2026-06-09T19:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064425662698721498"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064425662698721498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我在药效里面也会在想我会被别人讨厌之类的或者一些尴尬的事情但是其实都很短但是不吃药这些东西就在一直围着我转这种想法其实仔细想想我以前也没那么傻呀为毛班上那么多人讨厌我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2064425662698721498",
+        "created_at": "2026-06-09T19:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064425662698721498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064425662698721498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我在药效里面也会在想我会被别人讨厌之类的或者一些尴尬的事情但是其实都很短但是不吃药这些东西就在一直围着我转这种想法其实仔细想想我以前也没那么傻呀为毛班上那么多人讨厌我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 91,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 368
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

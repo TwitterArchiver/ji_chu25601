@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2064724708210454791",
+    "created_at": "2026-06-10T15:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064733653440295261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019073219341295616",
+          "start": 0,
+          "username": "NatashaLun27256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064733653440295261",
+    "in_reply_to_user_id": "2019073219341295616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064733545432776972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NatashaLun27256 是这样的说 😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2064724708210454791",
+        "created_at": "2026-06-10T15:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064733653440295261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019073219341295616",
+              "start": 0,
+              "username": "NatashaLun27256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064733653440295261",
+        "in_reply_to_user_id": "2019073219341295616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064733545432776972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NatashaLun27256 是这样的说 😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019073219341295616",
+        "conversation_id": "2064724708210454791",
+        "created_at": "2026-06-10T15:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064733545432776972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064733545432776972",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064724708210454791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 他突然发这些其实感觉好莫名其妙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 95,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 379
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T15:39:26.000Z",
+        "description": "",
+        "id": "2019073219341295616",
+        "name": "永遠の翌日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061523999952355328/7A8NQewz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "username": "NatashaLun27256",
+        "verified": false
+      }
+    ]
+  }
+}

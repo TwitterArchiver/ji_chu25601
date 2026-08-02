@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2059595779535503771",
+    "created_at": "2026-05-27T15:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059657155759018485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455168885905190917",
+          "start": 0,
+          "username": "Misawa28s"
+        },
+        {
+          "end": 20,
+          "id": "1843325725694476288",
+          "start": 11,
+          "username": "Ba1L0veU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059657155759018485",
+    "in_reply_to_user_id": "1455168885905190917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059654705173983672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misawa28s @Ba1L0veU 一盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059595779535503771",
+        "created_at": "2026-05-27T15:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059657155759018485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455168885905190917",
+              "start": 0,
+              "username": "Misawa28s"
+            },
+            {
+              "end": 20,
+              "id": "1843325725694476288",
+              "start": 11,
+              "username": "Ba1L0veU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059657155759018485",
+        "in_reply_to_user_id": "1455168885905190917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059654705173983672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misawa28s @Ba1L0veU 一盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455168885905190917",
+        "conversation_id": "2059595779535503771",
+        "created_at": "2026-05-27T15:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059654705173983672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            },
+            {
+              "end": 22,
+              "id": "1843325725694476288",
+              "start": 13,
+              "username": "Ba1L0veU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059654705173983672",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059608362040557949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 @Ba1L0veU 加巴喷丁怎么玩？听说吃七八 t 都不够普瑞的 1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059013659037417923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 59,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 255
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T13:44:40.000Z",
+        "description": "",
+        "id": "1455168885905190917",
+        "name": "🌊🌊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604877446897053699/Fs1OQmtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 48,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "Misawa28s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T16:21:30.000Z",
+        "description": "白白/Prs   欢迎互fo🦔                                                       蓝蝴蝶同号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ba1l0veu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ba1l0veu",
+                "start": 0,
+                "url": "https://t.co/XmXaKpvitI"
+              }
+            ]
+          }
+        },
+        "id": "1843325725694476288",
+        "location": "❤️",
+        "name": "白白🍀",
+        "pinned_tweet_id": "2040738512937652488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822086462312448/0uUM_IQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 635,
+          "like_count": 3853,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1804
+        },
+        "url": "https://t.co/XmXaKpvitI",
+        "username": "Ba1L0veU",
+        "verified": false
+      }
+    ]
+  }
+}

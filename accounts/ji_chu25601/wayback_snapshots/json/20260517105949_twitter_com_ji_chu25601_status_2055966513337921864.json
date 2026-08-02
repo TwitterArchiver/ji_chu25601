@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055966503208685568"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2055966513337921864",
+    "created_at": "2026-05-17T10:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055966513337921864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qPx3rY2Zjm",
+          "end": 23,
+          "expanded_url": "https://x.com/ji_chu25601/status/2055966513337921864/photo/1",
+          "media_key": "3_2055966503208685568",
+          "start": 0,
+          "url": "https://t.co/qPx3rY2Zjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055966513337921864",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qPx3rY2Zjm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2055966503208685568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhCpEXbEAAu2qg.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055966503208685568"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2055966513337921864",
+        "created_at": "2026-05-17T10:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055966513337921864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPx3rY2Zjm",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/2055966513337921864/photo/1",
+              "media_key": "3_2055966503208685568",
+              "start": 0,
+              "url": "https://t.co/qPx3rY2Zjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055966513337921864",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qPx3rY2Zjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 200
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

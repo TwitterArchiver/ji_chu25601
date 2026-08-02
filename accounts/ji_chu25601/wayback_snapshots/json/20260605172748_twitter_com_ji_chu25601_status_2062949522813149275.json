@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2062930307951783953",
+    "created_at": "2026-06-05T17:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062949522813149275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650209029724196865",
+          "start": 0,
+          "username": "KarBwk5251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062949522813149275",
+    "in_reply_to_user_id": "1650209029724196865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062930307951783953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarBwk5251 老子才是老大!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_2062930305158434816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEALsNbUAAb_mc.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2062930307951783953",
+        "created_at": "2026-06-05T17:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062949522813149275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650209029724196865",
+              "start": 0,
+              "username": "KarBwk5251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062949522813149275",
+        "in_reply_to_user_id": "1650209029724196865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062930307951783953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarBwk5251 老子才是老大!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062930305158434816"
+          ]
+        },
+        "author_id": "1650209029724196865",
+        "conversation_id": "2062930307951783953",
+        "created_at": "2026-06-05T16:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062930307951783953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2Rx2obevA",
+              "end": 30,
+              "expanded_url": "https://x.com/KarBwk5251/status/2062930307951783953/photo/1",
+              "media_key": "3_2062930305158434816",
+              "start": 7,
+              "url": "https://t.co/g2Rx2obevA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062930307951783953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐 https://t.co/g2Rx2obevA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 77,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 333
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T18:44:49.000Z",
+        "description": "我是小桃\n🐱叫圈圈\n非二元\n乐乐\n不看黄也不建政（假的）我是中推最美逆行人",
+        "id": "1650209029724196865",
+        "location": "Yuki是我的宝宝～(^з^)-♡",
+        "name": "☔️8964.星露谷钓鱼佬桃酱☔️",
+        "pinned_tweet_id": "2061734360253186517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062205980759527424/7r6Wt9gF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1907,
+          "like_count": 11259,
+          "listed_count": 3,
+          "media_count": 1912,
+          "tweet_count": 8547
+        },
+        "username": "KarBwk5251",
+        "verified": false
+      }
+    ]
+  }
+}

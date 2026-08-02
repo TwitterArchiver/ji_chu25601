@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2081368876714262708",
+    "created_at": "2026-07-26T16:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081412148954275851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829910278827622402",
+          "start": 0,
+          "username": "Yuuki061202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081412148954275851",
+    "in_reply_to_user_id": "1829910278827622402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081378430235369790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuki061202 这个是半个月前买的盐野义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2081368876714262708",
+        "created_at": "2026-07-26T16:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081412148954275851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829910278827622402",
+              "start": 0,
+              "username": "Yuuki061202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081412148954275851",
+        "in_reply_to_user_id": "1829910278827622402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081378430235369790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuki061202 这个是半个月前买的盐野义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829910278827622402",
+        "conversation_id": "2081368876714262708",
+        "created_at": "2026-07-26T13:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081378430235369790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081378430235369790",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081368876714262708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 ？卖点给我啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 153,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T15:53:09.000Z",
+        "description": "重生之我是一个死od妹并每天在大学校园里cos正常人",
+        "id": "1829910278827622402",
+        "name": "Yuuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075799827644829696/XcT0hNkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Yuuki061202",
+        "verified": false
+      }
+    ]
+  }
+}

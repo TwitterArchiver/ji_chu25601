@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2056206717755777485",
+    "created_at": "2026-05-19T14:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056738841797755334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "949316104144457729",
+          "start": 0,
+          "username": "wangchangfu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056738841797755334",
+    "in_reply_to_user_id": "949316104144457729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056206717755777485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangchangfu88 现实就是一个人就算玖很多手机熬夜吃垃圾食品没有对象和目标的健全b也很多反倒你完全爹味滞纳猪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2056206717755777485",
+        "created_at": "2026-05-19T14:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056738841797755334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949316104144457729",
+              "start": 0,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056738841797755334",
+        "in_reply_to_user_id": "949316104144457729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056206717755777485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangchangfu88 现实就是一个人就算玖很多手机熬夜吃垃圾食品没有对象和目标的健全b也很多反倒你完全爹味滞纳猪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "949316104144457729",
+        "conversation_id": "2056206717755777485",
+        "created_at": "2026-05-18T02:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056206717755777485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056206717755777485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 22587,
+          "like_count": 227,
+          "quote_count": 12,
+          "reply_count": 60,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "所谓的抑郁，往往只是：\n\n- 玩手机太多\n- 吃垃圾食品\n- 熬夜\n- 不运动\n- 没有目标\n- 没有男/女朋友\n\n仅此而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 38,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 209
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/people/46-84-5…",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/people/46-84-5-95",
+                "start": 0,
+                "url": "https://t.co/tEYK0T3zeJ"
+              }
+            ]
+          }
+        },
+        "id": "949316104144457729",
+        "name": "王长富",
+        "pinned_tweet_id": "2055249092750746040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13432,
+          "following_count": 2717,
+          "like_count": 9765,
+          "listed_count": 45,
+          "media_count": 120,
+          "tweet_count": 7791
+        },
+        "url": "https://t.co/tEYK0T3zeJ",
+        "username": "wangchangfu88",
+        "verified": true
+      }
+    ]
+  }
+}

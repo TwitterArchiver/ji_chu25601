@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1918124682852876295",
+    "created_at": "2025-05-02T12:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T13:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918283624551743735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665187038092734464",
+          "start": 0,
+          "username": "XYN1729927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918283624551743735",
+    "in_reply_to_user_id": "1665187038092734464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918124682852876295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYN1729927 那很搞笑了名字有点显眼的说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1918124682852876295",
+        "created_at": "2025-05-02T12:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T13:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918283624551743735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665187038092734464",
+              "start": 0,
+              "username": "XYN1729927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918283624551743735",
+        "in_reply_to_user_id": "1665187038092734464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918124682852876295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1729927 那很搞笑了名字有点显眼的说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665187038092734464",
+        "conversation_id": "1918124682852876295",
+        "created_at": "2025-05-02T02:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T03:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918124682852876295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918124682852876295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被同学发现我推特号了😭😭😭😭还看见了我发疯时写的东西……相思了！！！当初还是我教他怎么翻墙的啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "雏草姬",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T02:41:53.000Z",
+        "description": "一般路过无证含糖mtf/不键政/不od/喜欢玩wotb/不会易燃易爆，可以当大家的树洞/坐标广东清远",
+        "id": "1665187038092734464",
+        "location": "苏维埃联盟",
+        "name": "一般路过萤火虫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677659134760722434/VU-b0Wog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 38,
+          "like_count": 2422,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 419
+        },
+        "username": "XYN1729927",
+        "verified": false
+      }
+    ]
+  }
+}

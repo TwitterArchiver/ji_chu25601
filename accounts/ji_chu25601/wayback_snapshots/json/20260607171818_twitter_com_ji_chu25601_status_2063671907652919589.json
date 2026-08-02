@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2063513217536758078",
+    "created_at": "2026-06-07T17:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063671907652919589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054826574286065664",
+          "start": 0,
+          "username": "Leyumian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063671907652919589",
+    "in_reply_to_user_id": "2054826574286065664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063513217536758078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leyumian 好点的妆娘几百头壳动不动几千块了我皮下也没多好看有这钱完全可以请一个好一点的妆+后期"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063513202290470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMSUxPaMAAC2jK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2063513217536758078",
+        "created_at": "2026-06-07T17:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063671907652919589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054826574286065664",
+              "start": 0,
+              "username": "Leyumian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063671907652919589",
+        "in_reply_to_user_id": "2054826574286065664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063513217536758078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leyumian 好点的妆娘几百头壳动不动几千块了我皮下也没多好看有这钱完全可以请一个好一点的妆+后期"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063513202290470912"
+          ]
+        },
+        "author_id": "2054826574286065664",
+        "conversation_id": "2063513217536758078",
+        "created_at": "2026-06-07T06:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063513217536758078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "正太"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "伪娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPD8EgaOGu",
+              "end": 80,
+              "expanded_url": "https://x.com/Leyumian/status/2063513217536758078/photo/1",
+              "media_key": "3_2063513202290470912",
+              "start": 57,
+              "url": "https://t.co/xPD8EgaOGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063513217536758078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1919,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #正太 #伪娘 #黑丝\n要漫展了，但是还没瘦到想要的体重，而且没有妆娘给咱化妆，还没钱，想买头壳，好焦虑 https://t.co/xPD8EgaOGu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 84,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 354
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T07:30:51.000Z",
+        "description": "🚪30，过口令，过滤一些不喜欢的人，一条臭蛆罢了，别打扰我的好心情",
+        "id": "2054826574286065664",
+        "location": "广州",
+        "name": "倾欲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054827778475008000/K_5eBS57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 101,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 103
+        },
+        "username": "Leyumian",
+        "verified": false
+      }
+    ]
+  }
+}

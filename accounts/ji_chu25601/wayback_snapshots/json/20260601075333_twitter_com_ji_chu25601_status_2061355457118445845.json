@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2061084611426603212",
+    "created_at": "2026-06-01T07:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061355457118445845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662317345367547904",
+          "start": 0,
+          "username": "lixianglix44773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061355457118445845",
+    "in_reply_to_user_id": "1662317345367547904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061353480120598887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lixianglix44773 找你妈去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2061084611426603212",
+        "created_at": "2026-06-01T07:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061355457118445845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662317345367547904",
+              "start": 0,
+              "username": "lixianglix44773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061355457118445845",
+        "in_reply_to_user_id": "1662317345367547904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061353480120598887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixianglix44773 找你妈去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662317345367547904",
+        "conversation_id": "2061084611426603212",
+        "created_at": "2026-06-01T07:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061353480120598887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061353480120598887",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061084611426603212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 想操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 69,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 305
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T04:39:10.000Z",
+        "description": "",
+        "id": "1662317345367547904",
+        "name": "sosksknwj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056795267576520704/QbYOaJCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 76,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 144
+        },
+        "username": "lixianglix44773",
+        "verified": false
+      }
+    ]
+  }
+}

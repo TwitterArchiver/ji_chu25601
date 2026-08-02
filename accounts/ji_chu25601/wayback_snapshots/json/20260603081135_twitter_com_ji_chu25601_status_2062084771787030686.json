@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2062055534367572210",
+    "created_at": "2026-06-03T08:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062084771787030686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557193023468883968",
+          "start": 0,
+          "username": "xaoyou408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062084771787030686",
+    "in_reply_to_user_id": "1557193023468883968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062055534367572210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaoyou408 其实你长得很忧郁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062055497298251776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3kjK-akAAots0.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2062055534367572210",
+        "created_at": "2026-06-03T08:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062084771787030686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557193023468883968",
+              "start": 0,
+              "username": "xaoyou408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062084771787030686",
+        "in_reply_to_user_id": "1557193023468883968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062055534367572210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaoyou408 其实你长得很忧郁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062055497298251776"
+          ]
+        },
+        "author_id": "1557193023468883968",
+        "conversation_id": "2062055534367572210",
+        "created_at": "2026-06-03T06:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062055534367572210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNG5yEHdEd",
+              "end": 47,
+              "expanded_url": "https://x.com/xaoyou408/status/2062055534367572210/photo/1",
+              "media_key": "3_2062055497298251776",
+              "start": 24,
+              "url": "https://t.co/zNG5yEHdEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062055534367572210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不化妆真的很像男的吗 我哭了 好多人这样说我 https://t.co/zNG5yEHdEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 73,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 312
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T02:32:12.000Z",
+        "description": "^^神经病/被害妄想症/畏惧死亡/",
+        "id": "1557193023468883968",
+        "location": "地狱",
+        "name": "役津栗优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926720580071426/mJZ_Jz9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 29,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 100
+        },
+        "username": "xaoyou408",
+        "verified": false
+      }
+    ]
+  }
+}

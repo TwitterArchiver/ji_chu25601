@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1988170703754109082",
+    "created_at": "2026-01-25T18:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T19:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015487101635289243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015487101635289243",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999404733778526706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu 我淘宝，抖音，拼多多，美团京东都试过了不行没有印章拼多多的说😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1999404729877815296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79QAi6aYAAL7Se.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1988170703754109082",
+        "created_at": "2026-01-25T18:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T19:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015487101635289243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015487101635289243",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999404733778526706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu 我淘宝，抖音，拼多多，美团京东都试过了不行没有印章拼多多的说😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999404729877815296"
+          ]
+        },
+        "author_id": "1778696847563104256",
+        "conversation_id": "1988170703754109082",
+        "created_at": "2025-12-12T09:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999404733778526706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXLelGkaFO",
+              "end": 48,
+              "expanded_url": "https://x.com/gold_bihu/status/1999404733778526706/photo/1",
+              "media_key": "3_1999404729877815296",
+              "start": 25,
+              "url": "https://t.co/nXLelGkaFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999404733778526706",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5116,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988170703754109082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四更:许昊龙410183199904050056 https://t.co/nXLelGkaFO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 38,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜处方放在https://t.co/MS7VCxzFgu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 63,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 40,
+                "url": "https://t.co/MS7VCxzFgu"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1999827971180490853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 418,
+          "like_count": 10509,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2409
+        },
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

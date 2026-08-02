@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2033878521085628918",
+    "created_at": "2026-03-18T03:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T04:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034104371466608662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034104371466608662",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033878521085628918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 最好不要，我现在一天不吃就难受了👿完全戒不掉呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033878518178975750",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnJvIBbEAYEael.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2033878521085628918",
+        "created_at": "2026-03-18T03:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034104371466608662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034104371466608662",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033878521085628918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 最好不要，我现在一天不吃就难受了👿完全戒不掉呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033878518178975750"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2033878521085628918",
+        "created_at": "2026-03-17T12:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033878521085628918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHw9Zl5Scc",
+              "end": 37,
+              "expanded_url": "https://x.com/mwdxj29477/status/2033878521085628918/photo/1",
+              "media_key": "3_2033878518178975750",
+              "start": 14,
+              "url": "https://t.co/WHw9Zl5Scc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033878521085628918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3852,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功了🥲，但我真的要吃吗🥺 https://t.co/WHw9Zl5Scc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 164
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨/顺男?探索中/Hrt🍥01.28.2026/无证含糖/泛性恋?/家长反对党😭/炸柜💥03.12/非二元/🍰11.13.2011/INFP-T/161cm51kg41码/纯M/初二牲/成绩倒数的废物/体能废物/只玩MC/视成分互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省 孝感市 汉川市",
+        "name": "🍥~𝓤 𝓷 𝓴 𝓷 𝓸 𝔀 𝓷 ~🍥",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031819030181650432/_OhFSDa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 904,
+          "like_count": 9821,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

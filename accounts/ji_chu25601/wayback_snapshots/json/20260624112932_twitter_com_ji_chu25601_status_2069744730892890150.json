@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2067424113141186696",
+    "created_at": "2026-06-24T11:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069744730892890150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        },
+        {
+          "end": 25,
+          "id": "1839085606573637632",
+          "start": 15,
+          "username": "zhiii_tan"
+        },
+        {
+          "end": 35,
+          "id": "2056655773502160896",
+          "start": 26,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069744730892890150",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069743951003984223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui @zhiii_tan @simaojie 估计没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2067424113141186696",
+        "created_at": "2026-06-24T11:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069744730892890150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            },
+            {
+              "end": 25,
+              "id": "1839085606573637632",
+              "start": 15,
+              "username": "zhiii_tan"
+            },
+            {
+              "end": 35,
+              "id": "2056655773502160896",
+              "start": 26,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069744730892890150",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069743951003984223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui @zhiii_tan @simaojie 估计没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445681460497694723",
+        "conversation_id": "2067424113141186696",
+        "created_at": "2026-06-24T11:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069743951003984223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            },
+            {
+              "end": 23,
+              "id": "1839085606573637632",
+              "start": 13,
+              "username": "zhiii_tan"
+            },
+            {
+              "end": 33,
+              "id": "2056655773502160896",
+              "start": 24,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069743951003984223",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589247247528150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 @zhiii_tan @simaojie 这人没意识到自己出名了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 146,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "这里是精神病和嗑药od频道.\n大学退学，农村穷蛆。intj。\n欢迎温良边缘人直fo。\n🈲过激健全基本盘男权女权。",
+        "id": "1445681460497694723",
+        "location": "南昌",
+        "name": "relife栗子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034259613885796353/B-zmpLFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 265,
+          "like_count": 9523,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 2439
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 567,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 3251
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "你们可以叫我kaki/小卉\n欢迎互fo互转！！\n女宝宝们直fo就行我都会回关的",
+        "id": "2056655773502160896",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 166,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

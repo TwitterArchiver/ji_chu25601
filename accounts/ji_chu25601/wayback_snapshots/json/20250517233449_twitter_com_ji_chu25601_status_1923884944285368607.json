@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876721952275992576"
+      ],
+      "media_source_tweet_id": [
+        "1876722025760280882"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "1923884944285368607",
+    "created_at": "2025-05-17T23:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T00:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923884944285368607"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "saikonosutoka",
+          "probability": 0.6666,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 23,
+          "tag": "saikonosutoka"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685003972136849409",
+          "start": 3,
+          "username": "CrovoClash"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xyS9j8KNV",
+          "end": 61,
+          "expanded_url": "https://x.com/CrovoClash/status/1876722025760280882/photo/1",
+          "media_key": "3_1876721952275992576",
+          "start": 38,
+          "url": "https://t.co/5xyS9j8KNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923884944285368607",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876722025760280882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrovoClash: Done!! #saikonosutoka https://t.co/5xyS9j8KNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1876721952275992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggt0rBuWkAAMHi5.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876721952275992576"
+          ],
+          "media_source_tweet_id": [
+            "1876722025760280882"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "1923884944285368607",
+        "created_at": "2025-05-17T23:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T00:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923884944285368607"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "saikonosutoka",
+              "probability": 0.6666,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 23,
+              "tag": "saikonosutoka"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685003972136849409",
+              "start": 3,
+              "username": "CrovoClash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xyS9j8KNV",
+              "end": 61,
+              "expanded_url": "https://x.com/CrovoClash/status/1876722025760280882/photo/1",
+              "media_key": "3_1876721952275992576",
+              "start": 38,
+              "url": "https://t.co/5xyS9j8KNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923884944285368607",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876722025760280882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrovoClash: Done!! #saikonosutoka https://t.co/5xyS9j8KNV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876721952275992576"
+          ]
+        },
+        "author_id": "1685003972136849409",
+        "conversation_id": "1876722025760280882",
+        "created_at": "2025-01-07T20:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T21:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876722025760280882"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "saikonosutoka",
+              "probability": 0.6858,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 7,
+              "tag": "saikonosutoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xyS9j8KNV",
+              "end": 45,
+              "expanded_url": "https://x.com/CrovoClash/status/1876722025760280882/photo/1",
+              "media_key": "3_1876721952275992576",
+              "start": 22,
+              "url": "https://t.co/5xyS9j8KNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876722025760280882",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1840,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Done!! #saikonosutoka https://t.co/5xyS9j8KNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "焱音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919420516131323904/tnYV7Fxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T19:07:32.000Z",
+        "description": "I Don't feel anything anymore.",
+        "id": "1685003972136849409",
+        "name": "IMAGINATIONCLASH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819074334427897856/F8ajEDkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 232,
+          "like_count": 10679,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 739
+        },
+        "username": "CrovoClash",
+        "verified": true
+      }
+    ]
+  }
+}

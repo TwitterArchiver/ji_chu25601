@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1904830991497084928"
+      ],
+      "media_source_tweet_id": [
+        "1904831879670350304"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1924185814277525907",
+    "created_at": "2025-05-18T19:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T20:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924185814277525907"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "SNS",
+          "probability": 0.4133,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "saikonosutoka",
+          "probability": 0.6185,
+          "start": 38,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 37,
+          "tag": "saikonosutoka"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685003972136849409",
+          "start": 3,
+          "username": "CrovoClash"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ao2FXzxE80",
+          "end": 104,
+          "expanded_url": "https://x.com/CrovoClash/status/1904831879670350304/video/1",
+          "media_key": "7_1904830991497084928",
+          "start": 81,
+          "url": "https://t.co/Ao2FXzxE80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924185814277525907",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904831879670350304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrovoClash: Did a short for SNS. #saikonosutoka\nSong: twin tribes - monolith https://t.co/Ao2FXzxE80"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14065,
+        "height": 1440,
+        "media_key": "7_1904830991497084928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904830991497084928/pu/img/km9mUu1Mh3qSOhfD.jpg",
+        "public_metrics": {
+          "view_count": 430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904830991497084928/pu/vid/avc1/320x576/zC0FDv1H5kzrnDyg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904830991497084928/pu/vid/avc1/480x864/FjBk3WiIWHjXevZs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904830991497084928/pu/vid/avc1/720x1296/pprfb-qhbSD9bD8K.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904830991497084928/pu/pl/ug2GXN2iEXI6ABrB.m3u8?tag=12"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904830991497084928"
+          ],
+          "media_source_tweet_id": [
+            "1904831879670350304"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924185814277525907",
+        "created_at": "2025-05-18T19:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T20:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924185814277525907"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "SNS",
+              "probability": 0.4133,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "saikonosutoka",
+              "probability": 0.6185,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 37,
+              "tag": "saikonosutoka"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685003972136849409",
+              "start": 3,
+              "username": "CrovoClash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ao2FXzxE80",
+              "end": 104,
+              "expanded_url": "https://x.com/CrovoClash/status/1904831879670350304/video/1",
+              "media_key": "7_1904830991497084928",
+              "start": 81,
+              "url": "https://t.co/Ao2FXzxE80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924185814277525907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904831879670350304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrovoClash: Did a short for SNS. #saikonosutoka\nSong: twin tribes - monolith https://t.co/Ao2FXzxE80"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904830991497084928"
+          ]
+        },
+        "author_id": "1685003972136849409",
+        "conversation_id": "1904831879670350304",
+        "created_at": "2025-03-26T09:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T10:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904831879670350304"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "SNS",
+              "probability": 0.4489,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "saikonosutoka",
+              "probability": 0.6161,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 21,
+              "tag": "saikonosutoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ao2FXzxE80",
+              "end": 88,
+              "expanded_url": "https://x.com/CrovoClash/status/1904831879670350304/video/1",
+              "media_key": "7_1904830991497084928",
+              "start": 65,
+              "url": "https://t.co/Ao2FXzxE80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904831879670350304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1441,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Did a short for SNS. #saikonosutoka\nSong: twin tribes - monolith https://t.co/Ao2FXzxE80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "焱音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919420516131323904/tnYV7Fxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T19:07:32.000Z",
+        "description": "I Don't feel anything anymore.",
+        "id": "1685003972136849409",
+        "name": "IMAGINATIONCLASH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819074334427897856/F8ajEDkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 232,
+          "like_count": 10677,
+          "listed_count": 4,
+          "media_count": 402,
+          "tweet_count": 739
+        },
+        "username": "CrovoClash",
+        "verified": true
+      }
+    ]
+  }
+}

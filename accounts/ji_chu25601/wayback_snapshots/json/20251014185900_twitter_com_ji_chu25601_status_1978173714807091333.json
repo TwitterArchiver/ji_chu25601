@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1978128585996046755",
+    "created_at": "2025-10-14T18:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T19:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978173714807091333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        },
+        {
+          "end": 21,
+          "id": "1731670068189114368",
+          "start": 11,
+          "username": "Lead_Uore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978173714807091333",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978141855024808050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii @Lead_Uore ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978141839719841792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PFhcfWwAArkwH.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1978128585996046755",
+        "created_at": "2025-10-14T18:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978173714807091333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            },
+            {
+              "end": 21,
+              "id": "1731670068189114368",
+              "start": 11,
+              "username": "Lead_Uore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978173714807091333",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978141855024808050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii @Lead_Uore ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978141839719841792"
+          ]
+        },
+        "author_id": "1920308340737126400",
+        "conversation_id": "1978128585996046755",
+        "created_at": "2025-10-14T16:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978141855024808050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Lead_Uore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFaUcJTUhp",
+              "end": 34,
+              "expanded_url": "https://x.com/fusedjiii/status/1978141855024808050/photo/1",
+              "media_key": "3_1978141839719841792",
+              "start": 11,
+              "url": "https://t.co/bFaUcJTUhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978141855024808050",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978128585996046755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lead_Uore https://t.co/bFaUcJTUhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "阴阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949191410424713216/N7cqee7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "我只想回口令，再问自杀。",
+        "id": "1920308340737126400",
+        "location": "世界中心",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1976974975145017674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969384046397702171/wyn8NvzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 112,
+          "like_count": 117,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 515
+        },
+        "username": "fusedjiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN｜尖酸刻薄｜不鍵政｜DM無視｜ENTP-T｜ボカロ｜精神疾患｜負能量爆表｜阿斯伯格｜低素質｜重度憂鬱｜重度焦慮｜輕躁狂｜精分｜討口子｜玻璃心｜低齡兒｜自殘｜賣慘｜ADHD｜生性不討喜｜低智商｜低知識儲備量｜",
+        "id": "1731670068189114368",
+        "location": "東京 新宿区",
+        "name": "理德",
+        "pinned_tweet_id": "1967636798655565988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974565134594080768/rWfWvmUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 577,
+          "like_count": 63927,
+          "listed_count": 2,
+          "media_count": 605,
+          "tweet_count": 6837
+        },
+        "username": "Lead_Uore",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2059744372376395973",
+    "created_at": "2026-05-27T21:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T22:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059744372376395973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059744372376395973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墙内社交平台发od爸妈会被五马分尸最后还被野狗吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059744372376395973",
+        "created_at": "2026-05-27T21:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059744372376395973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059744372376395973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内社交平台发od爸妈会被五马分尸最后还被野狗吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 67,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 264
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

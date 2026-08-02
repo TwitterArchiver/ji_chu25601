@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2057757501538656498",
+    "created_at": "2026-06-19T02:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067798821963501900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042963323935952896",
+          "start": 0,
+          "username": "Gardenia_aii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067798821963501900",
+    "in_reply_to_user_id": "2042963323935952896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057757501538656498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gardenia_aii 小栀没想到还能刷到你()我觉得头像很眼熟嗯对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057757492629921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6fiX4a4AAHIr1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057757492617355264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6fiX1bIAA71uU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2057757501538656498",
+        "created_at": "2026-06-19T02:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067798821963501900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042963323935952896",
+              "start": 0,
+              "username": "Gardenia_aii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067798821963501900",
+        "in_reply_to_user_id": "2042963323935952896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057757501538656498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gardenia_aii 小栀没想到还能刷到你()我觉得头像很眼熟嗯对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057757492629921792",
+            "3_2057757492617355264"
+          ]
+        },
+        "author_id": "2042963323935952896",
+        "conversation_id": "2057757501538656498",
+        "created_at": "2026-05-22T09:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057757501538656498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOXTysU4Q3",
+              "end": 23,
+              "expanded_url": "https://x.com/Gardenia_aii/status/2057757501538656498/photo/1",
+              "media_key": "3_2057757492629921792",
+              "start": 0,
+              "url": "https://t.co/HOXTysU4Q3"
+            },
+            {
+              "display_url": "pic.x.com/HOXTysU4Q3",
+              "end": 23,
+              "expanded_url": "https://x.com/Gardenia_aii/status/2057757501538656498/photo/1",
+              "media_key": "3_2057757492617355264",
+              "start": 0,
+              "url": "https://t.co/HOXTysU4Q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057757501538656498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HOXTysU4Q3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 130,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T13:51:45.000Z",
+        "description": "",
+        "id": "2042963323935952896",
+        "name": "Yui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050150405364240384/gGFKWlEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 1,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "Gardenia_aii",
+        "verified": false
+      }
+    ]
+  }
+}

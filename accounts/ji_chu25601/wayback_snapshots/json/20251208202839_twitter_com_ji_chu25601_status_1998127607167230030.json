@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1998075300186649036",
+    "created_at": "2025-12-08T20:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T21:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998127607167230030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1686001029861531648",
+          "start": 0,
+          "username": "jin458305413"
+        },
+        {
+          "end": 29,
+          "id": "1639247931898306561",
+          "start": 14,
+          "username": "sam51824016070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998127607167230030",
+    "in_reply_to_user_id": "1686001029861531648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998119370908991929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jin458305413 @sam51824016070 现在手机和平台哪里没有翻译器？😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1998075300186649036",
+        "created_at": "2025-12-08T20:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T21:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998127607167230030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1686001029861531648",
+              "start": 0,
+              "username": "jin458305413"
+            },
+            {
+              "end": 29,
+              "id": "1639247931898306561",
+              "start": 14,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998127607167230030",
+        "in_reply_to_user_id": "1686001029861531648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998119370908991929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jin458305413 @sam51824016070 现在手机和平台哪里没有翻译器？😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686001029861531648",
+        "conversation_id": "1998075300186649036",
+        "created_at": "2025-12-08T19:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T20:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998119370908991929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639247931898306561",
+              "start": 0,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998119370908991929",
+        "in_reply_to_user_id": "1639247931898306561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998075300186649036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sam51824016070 发祝福也不舍得用日文，是不会吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 27,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T13:09:16.000Z",
+        "description": "",
+        "id": "1686001029861531648",
+        "name": "jin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686001157729296384/rICqEHFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 59,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "username": "jin458305413",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "共产党那么邪恶，爱国就要反共，反共才是真爱国，没有共产党才有新中国，反共光荣，亲共可耻！\n\n请关注小号https://t.co/dllXpw0KFa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 74,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 51,
+                "url": "https://t.co/dllXpw0KFa"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "1989405859685024239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13743,
+          "following_count": 4609,
+          "like_count": 24091,
+          "listed_count": 79,
+          "media_count": 2287,
+          "tweet_count": 6978
+        },
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

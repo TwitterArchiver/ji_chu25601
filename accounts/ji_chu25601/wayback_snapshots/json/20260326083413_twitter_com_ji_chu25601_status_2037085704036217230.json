@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2037085704036217230",
+    "created_at": "2026-03-26T08:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037085704036217230"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037085704036217230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有400块钱之前存的。还没发生活费👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2037085704036217230",
+        "created_at": "2026-03-26T08:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037085704036217230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037085704036217230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有400块钱之前存的。还没发生活费👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 180
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

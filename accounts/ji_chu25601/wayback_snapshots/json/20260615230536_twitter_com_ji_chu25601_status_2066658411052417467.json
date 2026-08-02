@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2066658411052417467",
+    "created_at": "2026-06-15T23:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066658411052417467"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066658411052417467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们也只是这个圈子相互理解并且看做平常觉得这个行为很平常无论你觉得护士多温柔心理医生多温柔多美好什么的但是他们核心原理永远都是让你把这些放下变成一个像他们一样的健全人虽然没什么不好的但是总而言之就是没有真正的接纳别人吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2066658411052417467",
+        "created_at": "2026-06-15T23:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066658411052417467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066658411052417467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们也只是这个圈子相互理解并且看做平常觉得这个行为很平常无论你觉得护士多温柔心理医生多温柔多美好什么的但是他们核心原理永远都是让你把这些放下变成一个像他们一样的健全人虽然没什么不好的但是总而言之就是没有真正的接纳别人吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "(欢迎互fo有点卡成分)ip广州",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2066457296125972895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 111,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 423
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

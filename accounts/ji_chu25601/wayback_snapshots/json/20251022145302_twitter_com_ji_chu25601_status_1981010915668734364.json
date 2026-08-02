@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1980870410314084448",
+    "created_at": "2025-10-22T14:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T15:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981010915668734364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981010915668734364",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980870410314084448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 本来我的目标也是长这样来着目前也就比吉他张丑十个门酱😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8466,
+        "height": 1280,
+        "media_key": "7_1980870323965751296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980870323965751296/pu/img/3rc5MRboaqqTEis-.jpg",
+        "public_metrics": {
+          "view_count": 159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980870323965751296/pu/vid/avc1/320x568/M3x7I2Bu50FZGq_u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980870323965751296/pu/vid/avc1/480x852/fXrgcMxxF8fJjLwE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980870323965751296/pu/vid/avc1/720x1280/3ORs2xUoP-pfZWQ8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980870323965751296/pu/pl/LslAoq0DGp3XYNZa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1980870410314084448",
+        "created_at": "2025-10-22T14:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981010915668734364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981010915668734364",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980870410314084448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 本来我的目标也是长这样来着目前也就比吉他张丑十个门酱😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980870323965751296"
+          ]
+        },
+        "author_id": "1700917352064561152",
+        "conversation_id": "1980870410314084448",
+        "created_at": "2025-10-22T05:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980870410314084448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rm1A1fjSpD",
+              "end": 34,
+              "expanded_url": "https://x.com/jing1234560/status/1980870410314084448/video/1",
+              "media_key": "7_1980870323965751296",
+              "start": 11,
+              "url": "https://t.co/Rm1A1fjSpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980870410314084448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此人忧郁程度在你之上 https://t.co/Rm1A1fjSpD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了🚪52块钱 过门私信 小号@xingyi1234560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1835352178237784189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 88,
+          "like_count": 8293,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 3535
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2031440271674581090",
+    "created_at": "2026-03-10T18:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T19:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031440271674581090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031440271674581090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好累啊我好像一直都在找依赖但是小学我那个被霸凌就像那个傻逼一样受着初一是我可以说是情感全部依赖在那条狗上初一后面被送走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2031440271674581090",
+        "created_at": "2026-03-10T18:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T19:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031440271674581090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031440271674581090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累啊我好像一直都在找依赖但是小学我那个被霸凌就像那个傻逼一样受着初一是我可以说是情感全部依赖在那条狗上初一后面被送走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 137
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2074760410868453570",
+    "created_at": "2026-07-08T22:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T23:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074991379424608304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927025054203715584",
+          "start": 0,
+          "username": "pr80_NightHaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074991379424608304",
+    "in_reply_to_user_id": "1927025054203715584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074760410868453570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80_NightHaven 感觉阿片就是很可怕呀😢之前还想o白兔来着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2419,
+        "media_key": "3_2074759992864075776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsHOJDa8AAKw96.jpg",
+        "width": 3225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2074760410868453570",
+        "created_at": "2026-07-08T22:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T23:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074991379424608304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927025054203715584",
+              "start": 0,
+              "username": "pr80_NightHaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074991379424608304",
+        "in_reply_to_user_id": "1927025054203715584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074760410868453570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80_NightHaven 感觉阿片就是很可怕呀😢之前还想o白兔来着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074759992864075776"
+          ]
+        },
+        "author_id": "1927025054203715584",
+        "conversation_id": "2074760410868453570",
+        "created_at": "2026-07-08T07:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074760410868453570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1YEeWLLGA",
+              "end": 165,
+              "expanded_url": "https://x.com/pr80_NightHaven/status/2074760410868453570/photo/1",
+              "media_key": "3_2074759992864075776",
+              "start": 142,
+              "url": "https://t.co/a1YEeWLLGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074760410868453570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3752,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "说归说，对于想尝试阿片的Oder，听我们永夜安港一句劝：永远不要尝试阿片，永远，任何阿片类，你可以去玩菲尼布特，你可以去玩14BDO，你可以去玩任何药，但你千万不要玩阿片，阿片是人类医学目前成瘾后最难戒除的药物类型，所以不要看我们官推每天出现阿片的内容就产生好奇，不要好奇不要尝试！ https://t.co/a1YEeWLLGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 150,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:32:44.000Z",
+        "description": "永夜安港 https://t.co/L5ua0XjoNE\n没有恶俗与吵架，只有温柔与减害。\nhttps://t.co/HsCioOgdzr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "or80.net",
+                "end": 28,
+                "expanded_url": "http://or80.net",
+                "start": 5,
+                "url": "https://t.co/L5ua0XjoNE"
+              },
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 69,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 46,
+                "url": "https://t.co/HsCioOgdzr"
+              }
+            ]
+          }
+        },
+        "id": "1927025054203715584",
+        "location": "NightHaven",
+        "name": "⚓️永夜安港 pr80.net",
+        "pinned_tweet_id": "2071982831732142419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 364,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "pr80_NightHaven",
+        "verified": true
+      }
+    ]
+  }
+}

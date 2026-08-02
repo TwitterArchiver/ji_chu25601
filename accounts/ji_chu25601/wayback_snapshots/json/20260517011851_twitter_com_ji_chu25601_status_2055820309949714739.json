@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2055584908152820006",
+    "created_at": "2026-05-17T01:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055820309949714739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010422988236369920",
+          "start": 0,
+          "username": "jvziqwq555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055820309949714739",
+    "in_reply_to_user_id": "2010422988236369920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055584908152820006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jvziqwq555 吞药死很疼补药呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055584847134158848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbnhwsbcAA5w9k.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2055584908152820006",
+        "created_at": "2026-05-17T01:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055820309949714739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010422988236369920",
+              "start": 0,
+              "username": "jvziqwq555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055820309949714739",
+        "in_reply_to_user_id": "2010422988236369920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055584908152820006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jvziqwq555 吞药死很疼补药呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055584847134158848"
+          ]
+        },
+        "author_id": "2010422988236369920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055584908152820006",
+        "created_at": "2026-05-16T09:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055584908152820006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7100dClZtx",
+              "end": 27,
+              "expanded_url": "https://x.com/jvziqwq555/status/2055584908152820006/photo/1",
+              "media_key": "3_2055584847134158848",
+              "start": 4,
+              "url": "https://t.co/7100dClZtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055584908152820006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安？ https://t.co/7100dClZtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 196
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:46:16.000Z",
+        "description": "我是橘子/10/od/自伤/自设厨/双相/重焦/同类互fo/LGBT友好\n喜欢听歌和画画 森口 术力口爱好者❤️\n很唐比 谢谢你们愿意和我玩...\n\n♡.꒰ ⑅:†· ♡ ·†:⑅ ꒱.♡ ₊⁺♡̶♡̶₊⁺",
+        "id": "2010422988236369920",
+        "name": "橘酱在哭",
+        "pinned_tweet_id": "2033949619986518419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033785794062913538/Bfy7cry1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 136,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 196
+        },
+        "username": "jvziqwq555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982929635869634562"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "1982929662042091968",
+    "created_at": "2025-10-27T21:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T22:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982929662042091968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ioBs7dJhBV",
+          "end": 23,
+          "expanded_url": "https://x.com/ji_chu25601/status/1982929662042091968/video/1",
+          "media_key": "7_1982929635869634562",
+          "start": 0,
+          "url": "https://t.co/ioBs7dJhBV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982929662042091968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ioBs7dJhBV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10166,
+        "height": 480,
+        "media_key": "7_1982929635869634562",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982929635869634562/pu/img/DA0Y1tCwnQxKXsKY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982929635869634562/pu/vid/avc1/360x270/0mA4UDZh12DxKZRw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982929635869634562/pu/vid/avc1/480x360/2WekZx2jut4E2YJQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982929635869634562/pu/vid/avc1/640x480/k7k8ZieNlUlLQhYs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982929635869634562/pu/pl/X_4oUP_DW9F6SnXQ.m3u8?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982929635869634562"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "1982929662042091968",
+        "created_at": "2025-10-27T21:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T22:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982929662042091968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioBs7dJhBV",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/1982929662042091968/video/1",
+              "media_key": "7_1982929635869634562",
+              "start": 0,
+              "url": "https://t.co/ioBs7dJhBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982929662042091968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ioBs7dJhBV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

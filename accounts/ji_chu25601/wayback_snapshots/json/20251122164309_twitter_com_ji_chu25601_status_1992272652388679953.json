@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992272645191311360"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "1992155472447914453",
+    "created_at": "2025-11-22T16:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992272652388679953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1v64D1Vdj6",
+          "end": 47,
+          "expanded_url": "https://x.com/ji_chu25601/status/1992272652388679953/photo/1",
+          "media_key": "3_1992272645191311360",
+          "start": 24,
+          "url": "https://t.co/1v64D1Vdj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992272652388679953",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992155472447914453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 塔菲可爱捏喵 https://t.co/1v64D1Vdj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_1992272645191311360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6X5alBbIAAu2K_.jpg",
+        "width": 295
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992155464969379840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WO1yraYAAzud7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992272645191311360"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "1992155472447914453",
+        "created_at": "2025-11-22T16:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992272652388679953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1v64D1Vdj6",
+              "end": 47,
+              "expanded_url": "https://x.com/ji_chu25601/status/1992272652388679953/photo/1",
+              "media_key": "3_1992272645191311360",
+              "start": 24,
+              "url": "https://t.co/1v64D1Vdj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992272652388679953",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992155472447914453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 塔菲可爱捏喵 https://t.co/1v64D1Vdj6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992155464969379840"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "1992155472447914453",
+        "created_at": "2025-11-22T08:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992155472447914453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PcPednVYuF",
+              "end": 23,
+              "expanded_url": "https://x.com/yui804275429451/status/1992155472447914453/photo/1",
+              "media_key": "3_1992155464969379840",
+              "start": 0,
+              "url": "https://t.co/PcPednVYuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992155472447914453",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1611,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PcPednVYuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 566,
+          "like_count": 1576,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 699
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

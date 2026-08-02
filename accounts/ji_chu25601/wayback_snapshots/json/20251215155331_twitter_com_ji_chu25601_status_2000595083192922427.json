@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2000419609644814691",
+    "created_at": "2025-12-15T15:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000595083192922427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1973643369315536896",
+          "start": 0,
+          "username": "Fxz0813"
+        },
+        {
+          "end": 17,
+          "id": "1890787587474018304",
+          "start": 9,
+          "username": "OPoooue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000595083192922427",
+    "in_reply_to_user_id": "1973643369315536896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000576045599080473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fxz0813 @OPoooue 习同志又在说笑了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2000419609644814691",
+        "created_at": "2025-12-15T15:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000595083192922427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1973643369315536896",
+              "start": 0,
+              "username": "Fxz0813"
+            },
+            {
+              "end": 17,
+              "id": "1890787587474018304",
+              "start": 9,
+              "username": "OPoooue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000595083192922427",
+        "in_reply_to_user_id": "1973643369315536896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000576045599080473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fxz0813 @OPoooue 习同志又在说笑了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973643369315536896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2000419609644814691",
+        "created_at": "2025-12-15T14:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000576045599080473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890787587474018304",
+              "start": 0,
+              "username": "OPoooue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000576045599080473",
+        "in_reply_to_user_id": "1890787587474018304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14188,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000419609644814691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPoooue 信这个还是信我是习近平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 62
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T06:57:27.000Z",
+        "description": "Natural selection, full speed ahead!--Zhang Beihai《Three-Body Problem》/Good luck,have fun!/Art is long,life is short.😂🤣😭😨😰💀☠️👽",
+        "id": "1973643369315536896",
+        "location": "1939的老冯子",
+        "name": "Ph0Ω😂🤣😭😨😰💀☠️👽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981962785987661825/TpS8Dl1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 74,
+          "like_count": 4152,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 454
+        },
+        "username": "Fxz0813",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:37:54.000Z",
+        "description": "Victory Goddess Dorothy's Q version garage kit. Hot punchline of secondary creation on the Internet. The prototype of the popular emoticon on the Internet.",
+        "id": "1890787587474018304",
+        "name": "Doro Binance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993422726099521536/CfCUjlnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11470,
+          "following_count": 68,
+          "like_count": 91,
+          "listed_count": 19,
+          "media_count": 12,
+          "tweet_count": 85
+        },
+        "username": "OPoooue",
+        "verified": true
+      }
+    ]
+  }
+}

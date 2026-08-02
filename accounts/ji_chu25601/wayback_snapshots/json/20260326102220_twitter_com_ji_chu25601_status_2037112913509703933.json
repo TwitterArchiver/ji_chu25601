@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037091033641869315"
+      ],
+      "media_source_tweet_id": [
+        "2037091257273794639"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2037112913509703933",
+    "created_at": "2026-03-26T10:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037112913509703933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1941398737840111623",
+          "start": 3,
+          "username": "songbansha6606"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WupUa3DRpy",
+          "end": 55,
+          "expanded_url": "https://x.com/songbansha6606/status/2037091257273794639/video/1",
+          "media_key": "13_2037091033641869315",
+          "start": 32,
+          "url": "https://t.co/WupUa3DRpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037112913509703933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037091257273794639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @songbansha6606: 磕药就是吸毒（超大声） https://t.co/WupUa3DRpy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101000,
+        "height": 1280,
+        "media_key": "13_2037091033641869315",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037091033641869315/img/MDIMYAlmU3tjiW2D.jpg",
+        "public_metrics": {
+          "view_count": 17070
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/320x568/FT5iUpUejENhgSNK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/480x852/Qcg_r--hvNCrHlP5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/720x1280/Tp7O_aneCOKmJT8H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/pl/Yse89js44M7r4g39.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037091033641869315"
+          ],
+          "media_source_tweet_id": [
+            "2037091257273794639"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2037112913509703933",
+        "created_at": "2026-03-26T10:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037112913509703933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1941398737840111623",
+              "start": 3,
+              "username": "songbansha6606"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WupUa3DRpy",
+              "end": 55,
+              "expanded_url": "https://x.com/songbansha6606/status/2037091257273794639/video/1",
+              "media_key": "13_2037091033641869315",
+              "start": 32,
+              "url": "https://t.co/WupUa3DRpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037112913509703933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037091257273794639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @songbansha6606: 磕药就是吸毒（超大声） https://t.co/WupUa3DRpy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037091033641869315"
+          ]
+        },
+        "author_id": "1941398737840111623",
+        "conversation_id": "2037091257273794639",
+        "created_at": "2026-03-26T08:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037091257273794639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WupUa3DRpy",
+              "end": 35,
+              "expanded_url": "https://x.com/songbansha6606/status/2037091257273794639/video/1",
+              "media_key": "13_2037091033641869315",
+              "start": 12,
+              "url": "https://t.co/WupUa3DRpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037091257273794639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 28699,
+          "like_count": 308,
+          "quote_count": 3,
+          "reply_count": 50,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "磕药就是吸毒（超大声） https://t.co/WupUa3DRpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 184
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T07:28:40.000Z",
+        "description": "",
+        "id": "1941398737840111623",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "2008363022130004474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034199943750225920/R1TG0Deb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5024,
+          "following_count": 19,
+          "like_count": 145,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 85
+        },
+        "username": "songbansha6606",
+        "verified": false
+      }
+    ]
+  }
+}

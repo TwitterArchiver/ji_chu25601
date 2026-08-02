@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1919933847145480232",
+    "created_at": "2025-05-07T01:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T02:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919933855500521967"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919933855500521967",
+    "in_reply_to_user_id": "1910629733785870336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919933851864109294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（不是干净的）我晾着的衣服和宿舍柜子的衣服会被故意弄湿我也不知道我惹了他们什么跟家长说我不想住宿然后他就来学校了在办公室谈的时候我说我不想住宿他们话里话外都是我想回家玩手机而已接回去也一路上都是指责都去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1919933847145480232",
+        "created_at": "2025-05-07T01:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T02:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919933855500521967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919933855500521967",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919933851864109294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（不是干净的）我晾着的衣服和宿舍柜子的衣服会被故意弄湿我也不知道我惹了他们什么跟家长说我不想住宿然后他就来学校了在办公室谈的时候我说我不想住宿他们话里话外都是我想回家玩手机而已接回去也一路上都是指责都去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1919933847145480232",
+        "created_at": "2025-05-07T01:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T02:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919933851864109294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919933851864109294",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919933849657561291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "送去了湖南还说什么没有缘分你但凡看好1点或者之后积极去寻找找不到是一回事完全不找又是另外一回事初二上半学期住宿没有经过我同意拿我东西之后拿回来不想借给别人的时候他们还说我宿舍的人基本上不会让开或者叫我让开直接就撞的，故意拿我的桶接空调水（有很多其他人留下的桶）故意把衣服丢到我床上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "焱音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919420516131323904/tnYV7Fxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2064712461517783511",
+    "created_at": "2026-06-10T16:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064740384052502530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589508609578176512",
+          "start": 0,
+          "username": "mifanmiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064740384052502530",
+    "in_reply_to_user_id": "1589508609578176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064712461517783511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mifanmiaomiao 好臭啊(恼)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064712446518984704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdVB-IXgAAO-vD.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2064712461517783511",
+        "created_at": "2026-06-10T16:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064740384052502530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589508609578176512",
+              "start": 0,
+              "username": "mifanmiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064740384052502530",
+        "in_reply_to_user_id": "1589508609578176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064712461517783511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mifanmiaomiao 好臭啊(恼)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064712446518984704"
+          ]
+        },
+        "author_id": "1589508609578176512",
+        "conversation_id": "2064712461517783511",
+        "created_at": "2026-06-10T14:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064712461517783511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRksBtz5tj",
+              "end": 37,
+              "expanded_url": "https://x.com/mifanmiaomiao/status/2064712461517783511/photo/1",
+              "media_key": "3_2064712446518984704",
+              "start": 14,
+              "url": "https://t.co/oRksBtz5tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064712461517783511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音有人放片，审核冲晕了吗 https://t.co/oRksBtz5tj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 95,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 380
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！正在努力学英语润出去.. 会给互fo画画（不过技术不太好 /画的有些慢） Telegram群: https://t.co/R8kPJWfjhP欢迎各位宝宝来群里面聊天~🥰有对象别骚扰我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+VOAVfurE50NlZ…",
+                "end": 107,
+                "expanded_url": "https://t.me/+VOAVfurE50NlZjQx",
+                "start": 84,
+                "url": "https://t.co/R8kPJWfjhP"
+              }
+            ]
+          }
+        },
+        "id": "1589508609578176512",
+        "name": "米花糖（看不了私信）",
+        "pinned_tweet_id": "2064705438755492127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1061,
+          "like_count": 8734,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 2607
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2057485451175608711",
+    "created_at": "2026-05-22T16:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057860496959877190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000658943144812548",
+          "start": 0,
+          "username": "lzh20100626hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057860496959877190",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057485451175608711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzh20100626hh 想进去可以试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2057485451175608711",
+        "created_at": "2026-05-22T16:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057860496959877190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057860496959877190",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057485451175608711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 想进去可以试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2057485451175608711",
+        "created_at": "2026-05-21T15:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057485451175608711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057485451175608711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1759,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要是卖sns的话能赚到钱吗。最近花钱太大手大脚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 36,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 218
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 325,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1114
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069446296772235266"
+      ],
+      "media_source_tweet_id": [
+        "2069446299670507804"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2069457143703695528",
+    "created_at": "2026-06-23T16:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069457143703695528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066620369541410816",
+          "start": 3,
+          "username": "nkaxko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s5VqSNtoua",
+          "end": 43,
+          "expanded_url": "https://x.com/nkaxko/status/2069446299670507804/photo/1",
+          "media_key": "3_2069446296772235266",
+          "start": 20,
+          "url": "https://t.co/s5VqSNtoua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069457143703695528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069446299670507804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nkaxko: 你们看得到我吗 https://t.co/s5VqSNtoua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069446296772235266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgmcUjbUAITSj6.jpg",
+        "width": 1499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069446296772235266"
+          ],
+          "media_source_tweet_id": [
+            "2069446299670507804"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2069457143703695528",
+        "created_at": "2026-06-23T16:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069457143703695528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066620369541410816",
+              "start": 3,
+              "username": "nkaxko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5VqSNtoua",
+              "end": 43,
+              "expanded_url": "https://x.com/nkaxko/status/2069446299670507804/photo/1",
+              "media_key": "3_2069446296772235266",
+              "start": 20,
+              "url": "https://t.co/s5VqSNtoua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069457143703695528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069446299670507804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nkaxko: 你们看得到我吗 https://t.co/s5VqSNtoua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069446296772235266"
+          ]
+        },
+        "author_id": "2066620369541410816",
+        "conversation_id": "2069446299670507804",
+        "created_at": "2026-06-23T15:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069446299670507804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5VqSNtoua",
+              "end": 31,
+              "expanded_url": "https://x.com/nkaxko/status/2069446299670507804/photo/1",
+              "media_key": "3_2069446296772235266",
+              "start": 8,
+              "url": "https://t.co/s5VqSNtoua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069446299670507804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们看得到我吗 https://t.co/s5VqSNtoua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 142,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T20:36:15.000Z",
+        "description": "叫我小透，ip 广州，我的私信开不了好无奈。现生母亲不管我，没有生活费所以来网上乞讨了，我啥都干。你们和我玩吧",
+        "id": "2066620369541410816",
+        "location": "爱喜巧克力",
+        "name": "透",
+        "pinned_tweet_id": "2066779795829248220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066925883039109122/Z78mc1du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 38,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "nkaxko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2032022060868710795",
+    "created_at": "2026-03-12T09:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T10:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032022060868710795"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032022060868710795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我希望我爸妈工作狂温柔等等，可是我妈就是一个不关心但要控制你我爸只是一个抽烟家暴但不喝酒因为早年间喝酒给自己胃喝坏了爱打麻将网赌早年间和朋友鬼混出去吸毒并且，都不爱去上班但是人之常情罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2032022060868710795",
+        "created_at": "2026-03-12T09:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032022060868710795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032022060868710795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我爸妈工作狂温柔等等，可是我妈就是一个不关心但要控制你我爸只是一个抽烟家暴但不喝酒因为早年间喝酒给自己胃喝坏了爱打麻将网赌早年间和朋友鬼混出去吸毒并且，都不爱去上班但是人之常情罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 40,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 144
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

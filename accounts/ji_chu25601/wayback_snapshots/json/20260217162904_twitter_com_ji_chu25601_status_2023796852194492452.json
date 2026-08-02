@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2023753386743787539",
+    "created_at": "2026-02-17T16:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T17:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023796852194492452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013943666084339713",
+          "start": 0,
+          "username": "dou_jue96788"
+        },
+        {
+          "end": 23,
+          "id": "2013321876224057344",
+          "start": 14,
+          "username": "OTxiashu"
+        },
+        {
+          "end": 32,
+          "id": "1868203874726887424",
+          "start": 24,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023796852194492452",
+    "in_reply_to_user_id": "2013943666084339713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023776847675445309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dou_jue96788 @OTxiashu @daozhir 可是我吃着还行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2023753386743787539",
+        "created_at": "2026-02-17T16:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023796852194492452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013943666084339713",
+              "start": 0,
+              "username": "dou_jue96788"
+            },
+            {
+              "end": 23,
+              "id": "2013321876224057344",
+              "start": 14,
+              "username": "OTxiashu"
+            },
+            {
+              "end": 32,
+              "id": "1868203874726887424",
+              "start": 24,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023796852194492452",
+        "in_reply_to_user_id": "2013943666084339713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023776847675445309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dou_jue96788 @OTxiashu @daozhir 可是我吃着还行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013943666084339713",
+        "conversation_id": "2023753386743787539",
+        "created_at": "2026-02-17T15:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023776847675445309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            },
+            {
+              "end": 18,
+              "id": "1868203874726887424",
+              "start": 10,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023776847675445309",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023763394298585182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu @daozhir 别买…..劲特别小 垃圾货一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 87
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T11:56:16.000Z",
+        "description": "同類互fo 隨便叫我什麼都行 爭取早日o死飛昇 中 喜歡交朋友快來找我聊天呀",
+        "id": "2013943666084339713",
+        "name": "小卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014257037342027776/P9XLzj0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 48,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "dou_jue96788",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "好尴尬",
+        "id": "2013321876224057344",
+        "location": "Hong Kong",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2022996591846842424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020833525847764992/PQowc8P0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 164
+        },
+        "username": "OTxiashu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "小倒丨16岁丨顺性别女性丨lesbian丨sub 丨 overdose丨双相情感障碍丨LGBTQ+全友好丨 fo同类 没fo私我丨欢迎找我聊聊天丨请多关照",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11179982",
+                "end": 23,
+                "expanded_url": "https://ngl.link/11179982",
+                "start": 0,
+                "url": "https://t.co/pHdQ49rVOA"
+              }
+            ]
+          }
+        },
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Hola",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 410,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/pHdQ49rVOA",
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1995711447674798195",
+    "created_at": "2025-12-02T13:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T14:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995843697423028444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841010758165151745",
+          "start": 0,
+          "username": "yuuioo_rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995843697423028444",
+    "in_reply_to_user_id": "1841010758165151745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995711447674798195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuioo_rei 我去还是重伤😧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1995711447674798195",
+        "created_at": "2025-12-02T13:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995843697423028444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841010758165151745",
+              "start": 0,
+              "username": "yuuioo_rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995843697423028444",
+        "in_reply_to_user_id": "1841010758165151745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995711447674798195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuioo_rei 我去还是重伤😧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841010758165151745",
+        "conversation_id": "1995711447674798195",
+        "created_at": "2025-12-02T04:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995711447674798195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995711447674798195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 36471,
+          "like_count": 423,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "比起肉体出轨和精神出轨 火车出轨更为伤人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 26,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 46
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T07:02:40.000Z",
+        "description": "170 92 随缘更 不线下 有门(.◜ω◝.)                                               \n\n         私信都会看 欢迎你们来找我聊天ovo",
+        "id": "1841010758165151745",
+        "name": "Yuuuioo",
+        "pinned_tweet_id": "1964706967227879876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974342155503108096/-nzIbEKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 24,
+          "like_count": 494,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 96
+        },
+        "username": "yuuioo_rei",
+        "verified": false
+      }
+    ]
+  }
+}

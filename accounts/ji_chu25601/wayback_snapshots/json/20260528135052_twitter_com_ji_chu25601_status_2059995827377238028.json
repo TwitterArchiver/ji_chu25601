@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2059995827377238028",
+    "created_at": "2026-05-28T13:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059995827377238028"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059995827377238028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠身体好累呀吃了一点碳水喝了魔爪还是好累因为断我之前生活费就计划好了出一个cos黑木智子还有三天31号之后是七月萤火虫我的朋友你啥时候来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059995827377238028",
+        "created_at": "2026-05-28T13:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059995827377238028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059995827377238028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠身体好累呀吃了一点碳水喝了魔爪还是好累因为断我之前生活费就计划好了出一个cos黑木智子还有三天31号之后是七月萤火虫我的朋友你啥时候来呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 275
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2067172721457594772",
+    "created_at": "2026-06-17T11:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067208844581953906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755494652889661440",
+          "start": 0,
+          "username": "Victor_zhang233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067208844581953906",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067172721457594772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_zhang233 哦美得多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067172719003947008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLASorWb0AAPj3p.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2067172721457594772",
+        "created_at": "2026-06-17T11:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067208844581953906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067208844581953906",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067172721457594772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 哦美得多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067172719003947008"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067172721457594772",
+        "created_at": "2026-06-17T09:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067172721457594772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAmoPjDH7f",
+              "end": 34,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2067172721457594772/photo/1",
+              "media_key": "3_2067172719003947008",
+              "start": 11,
+              "url": "https://t.co/nAmoPjDH7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067172721457594772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wa400fo了😸😸 https://t.co/nAmoPjDH7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2066457296125972895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 122,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 455
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 337,
+          "like_count": 7043,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

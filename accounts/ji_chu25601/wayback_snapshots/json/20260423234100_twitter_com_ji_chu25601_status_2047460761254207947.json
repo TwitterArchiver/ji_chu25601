@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2047299504354050383",
+    "created_at": "2026-04-23T23:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047460761254207947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748755970636038144",
+          "start": 0,
+          "username": "er_zuo96208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047460761254207947",
+    "in_reply_to_user_id": "1748755970636038144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047299504354050383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_zuo96208 整容钱不够了吧 😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2047299490391146496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl4ChmaQAAZn7E.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2047299504354050383",
+        "created_at": "2026-04-23T23:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047460761254207947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748755970636038144",
+              "start": 0,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047460761254207947",
+        "in_reply_to_user_id": "1748755970636038144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047299504354050383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_zuo96208 整容钱不够了吧 😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047299490391146496"
+          ]
+        },
+        "author_id": "1748755970636038144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047299504354050383",
+        "created_at": "2026-04-23T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047299504354050383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7t7T8bbXzq",
+              "end": 35,
+              "expanded_url": "https://x.com/er_zuo96208/status/2047299504354050383/photo/1",
+              "media_key": "3_2047299490391146496",
+              "start": 12,
+              "url": "https://t.co/7t7T8bbXzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047299504354050383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这头死猪怎么又圈上了？ https://t.co/7t7T8bbXzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 36,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 157
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图屏蔽我 爱我请给钱 被b了自己找原因 fo你是喜欢你 脾气不好别犯贱 提问箱⏬️ 欢迎来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪188/288➕半绿🚪520➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040803935880179712/cQh6bMcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 519,
+          "like_count": 1252,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

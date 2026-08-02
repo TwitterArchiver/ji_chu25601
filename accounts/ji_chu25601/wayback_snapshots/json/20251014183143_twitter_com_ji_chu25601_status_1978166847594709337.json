@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1965781221847515617",
+    "created_at": "2025-10-14T18:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T19:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978166847594709337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1364223687822512137",
+          "start": 0,
+          "username": "mansinglok"
+        },
+        {
+          "end": 24,
+          "id": "1939952061832888320",
+          "start": 12,
+          "username": "ZaiYou24020"
+        },
+        {
+          "end": 40,
+          "id": "4491058572",
+          "start": 25,
+          "username": "MaoTrichomonas"
+        },
+        {
+          "end": 50,
+          "id": "1790370144755351552",
+          "start": 41,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978166847594709337",
+    "in_reply_to_user_id": "1364223687822512137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965982079952531811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mansinglok @ZaiYou24020 @MaoTrichomonas @FurinaDF 我觉得大概率就是拿这个噱头圈钱啊然后还骚扰女网友嗯对后面就爆雷了💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1965781221847515617",
+        "created_at": "2025-10-14T18:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978166847594709337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1364223687822512137",
+              "start": 0,
+              "username": "mansinglok"
+            },
+            {
+              "end": 24,
+              "id": "1939952061832888320",
+              "start": 12,
+              "username": "ZaiYou24020"
+            },
+            {
+              "end": 40,
+              "id": "4491058572",
+              "start": 25,
+              "username": "MaoTrichomonas"
+            },
+            {
+              "end": 50,
+              "id": "1790370144755351552",
+              "start": 41,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978166847594709337",
+        "in_reply_to_user_id": "1364223687822512137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965982079952531811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mansinglok @ZaiYou24020 @MaoTrichomonas @FurinaDF 我觉得大概率就是拿这个噱头圈钱啊然后还骚扰女网友嗯对后面就爆雷了💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364223687822512137",
+        "conversation_id": "1965781221847515617",
+        "created_at": "2025-09-11T03:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T04:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965982079952531811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939952061832888320",
+              "start": 0,
+              "username": "ZaiYou24020"
+            },
+            {
+              "end": 28,
+              "id": "4491058572",
+              "start": 13,
+              "username": "MaoTrichomonas"
+            },
+            {
+              "end": 38,
+              "id": "1790370144755351552",
+              "start": 29,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "1965982079952531811",
+        "in_reply_to_user_id": "1939952061832888320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965810671704330430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaiYou24020 @MaoTrichomonas @FurinaDF 他骚扰女网友跟他思念孩子有什么关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "阴阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949191410424713216/N7cqee7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T14:40:59.000Z",
+        "description": "发动32场独立战争的传奇军人",
+        "id": "1364223687822512137",
+        "location": "Hong Kong",
+        "name": "奥雷里亚诺·布恩迪亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905473742886813696/qOp-pxzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 41,
+          "like_count": 41,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 2851
+        },
+        "username": "mansinglok",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T07:40:08.000Z",
+        "description": "…………………………",
+        "id": "1939952061832888320",
+        "location": "广东清远",
+        "name": "野崎緋世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943328500284547072/qzwlqxPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "ZaiYou24020",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-08T00:08:35.000Z",
+        "description": "一群人去地狱参观，发现历史上的罪人都站在粪坑里，希特勒淹过了头颈，斯大林却只过靴子，人们好奇的问为什么，斯大林说: 因为我是站在列宁的肩膀上。与此同时人们看见有个人在粪坑里畅游，一会儿潜泳，一会儿仰泳，不亦乐乎。",
+        "id": "4491058572",
+        "location": "腊肉纪念堂",
+        "name": "毛刃支不是毛润之",
+        "pinned_tweet_id": "1952904465453093032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953032273684774913/ctGIYptR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 215,
+          "like_count": 5681,
+          "listed_count": 8,
+          "media_count": 59,
+          "tweet_count": 2892
+        },
+        "username": "MaoTrichomonas",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "偷井盖专家，河南驻马店实验小学四年级在读@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56208,
+          "following_count": 2345,
+          "like_count": 29199,
+          "listed_count": 162,
+          "media_count": 7177,
+          "tweet_count": 11684
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2068571731313488134",
+    "created_at": "2026-06-21T07:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068601526084591858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "951930939248082944",
+          "start": 0,
+          "username": "Love_OXYcontin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068601526084591858",
+    "in_reply_to_user_id": "951930939248082944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068571731313488134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love_OXYcontin 正常一周7天一天4t嗯对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2068571731313488134",
+        "created_at": "2026-06-21T07:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068601526084591858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "951930939248082944",
+              "start": 0,
+              "username": "Love_OXYcontin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068601526084591858",
+        "in_reply_to_user_id": "951930939248082944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068571731313488134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love_OXYcontin 正常一周7天一天4t嗯对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "951930939248082944",
+        "conversation_id": "2068571731313488134",
+        "created_at": "2026-06-21T05:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068571731313488134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068571731313488134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉没有阿普就会活不下去 这周大概得吃了20-30片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 142,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T21:36:36.000Z",
+        "description": "MTF🏳️‍⚧️ 已术后 10年 ADHD 重度焦虑 睡眠障碍 坐标山东 BZD/Opioids-重度依赖 🌟服用的药物皆有医师处方‼️\n\n-活着就是为了药物 没有药物我会死-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Da_i_su_ki_da_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Da_i_su_ki_da_yo",
+                "start": 0,
+                "url": "https://t.co/jrNU36WaHn"
+              }
+            ]
+          }
+        },
+        "id": "951930939248082944",
+        "location": "天国",
+        "name": "呓语",
+        "pinned_tweet_id": "2068148479600537610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068350844513460224/_ju5KWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 393,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/jrNU36WaHn",
+        "username": "Love_OXYcontin",
+        "verified": false
+      }
+    ]
+  }
+}

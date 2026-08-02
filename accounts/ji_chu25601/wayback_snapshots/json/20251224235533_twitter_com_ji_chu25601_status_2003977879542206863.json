@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2003800658710090069",
+    "created_at": "2025-12-24T23:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T00:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003977879542206863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1129959919212421121",
+          "start": 0,
+          "username": "NEKOJIRUBRON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003977879542206863",
+    "in_reply_to_user_id": "1129959919212421121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003800658710090069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEKOJIRUBRON 確かに、彼らが悪いと思っているのは完全に主観的だからです。客観的に言えば、自傷、自殺、薬物乱用暴食断食は、すべて個人が選択したものであり、良否の基準はない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2003800658710090069",
+        "created_at": "2025-12-24T23:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T00:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003977879542206863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1129959919212421121",
+              "start": 0,
+              "username": "NEKOJIRUBRON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003977879542206863",
+        "in_reply_to_user_id": "1129959919212421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003800658710090069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEKOJIRUBRON 確かに、彼らが悪いと思っているのは完全に主観的だからです。客観的に言えば、自傷、自殺、薬物乱用暴食断食は、すべて個人が選択したものであり、良否の基準はない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1129959919212421121",
+        "conversation_id": "2003800658710090069",
+        "created_at": "2025-12-24T12:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003800658710090069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003800658710090069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1581,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "自殺は大抵何かしらの精神病を患っての末\nつまり病死なのでそれに良いも悪いも無い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 33,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 71
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-19T04:00:13.000Z",
+        "description": "躁鬱とお薬と死生観のおはなし",
+        "id": "1129959919212421121",
+        "location": "メンタルクリニック",
+        "name": "ねこぢるぶろん",
+        "pinned_tweet_id": "1989983992012210189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973152453798535172/s0j63UJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 375,
+          "like_count": 62147,
+          "listed_count": 10,
+          "media_count": 56,
+          "tweet_count": 1349
+        },
+        "username": "NEKOJIRUBRON",
+        "verified": false
+      }
+    ]
+  }
+}

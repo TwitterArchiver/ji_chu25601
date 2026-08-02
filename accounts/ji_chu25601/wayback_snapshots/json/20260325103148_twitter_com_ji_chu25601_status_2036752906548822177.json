@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2036077020913017342",
+    "created_at": "2026-03-25T10:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036752906548822177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885765075996393472",
+          "start": 0,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036752906548822177",
+    "in_reply_to_user_id": "1885765075996393472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036077020913017342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maitakoo 反胃中......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036076998326681600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGZPgybAAAjhxQ.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2036077020913017342",
+        "created_at": "2026-03-25T10:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036752906548822177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885765075996393472",
+              "start": 0,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036752906548822177",
+        "in_reply_to_user_id": "1885765075996393472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036077020913017342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maitakoo 反胃中......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036076998326681600"
+          ]
+        },
+        "author_id": "1885765075996393472",
+        "conversation_id": "2036077020913017342",
+        "created_at": "2026-03-23T13:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036077020913017342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/squKIuHMwh",
+              "end": 42,
+              "expanded_url": "https://x.com/maitakoo/status/2036077020913017342/photo/1",
+              "media_key": "3_2036076998326681600",
+              "start": 19,
+              "url": "https://t.co/squKIuHMwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036077020913017342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 42721,
+          "like_count": 215,
+          "quote_count": 6,
+          "reply_count": 43,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "对这个东西有心理阴影了oder都懂。 https://t.co/squKIuHMwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 177
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od&sh｜LGBTQIA+友好｜同类随缘互fo\n提问箱https://t.co/AG60232YzV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%96%84%E6%B…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/%E8%96%84%E6%B0%B7%E6%AE%89%E6%83%85",
+                "start": 36,
+                "url": "https://t.co/AG60232YzV"
+              }
+            ]
+          }
+        },
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2036718700414570657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 154,
+          "like_count": 2790,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1837
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

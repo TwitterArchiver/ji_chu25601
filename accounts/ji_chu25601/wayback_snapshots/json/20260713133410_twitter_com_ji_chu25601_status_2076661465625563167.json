@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076661433904050176"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2076661465625563167",
+    "created_at": "2026-07-13T13:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076661465625563167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oYL9CE5Enk",
+          "end": 28,
+          "expanded_url": "https://x.com/ji_chu25601/status/2076661465625563167/video/1",
+          "media_key": "7_2076661433904050176",
+          "start": 5,
+          "url": "https://t.co/oYL9CE5Enk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076661465625563167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坤美面积 https://t.co/oYL9CE5Enk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8218,
+        "height": 1280,
+        "media_key": "7_2076661433904050176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076661433904050176/pu/img/_cLayAR-GlwhoqgU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076661433904050176/pu/vid/avc1/320x568/0D282yF18bDgSJIF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076661433904050176/pu/vid/avc1/480x852/_nNk8nK-tD6WvH9J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076661433904050176/pu/vid/avc1/720x1280/m78DSD-z7QYk26Kx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076661433904050176/pu/pl/dBY4hhtGFspb9M0s.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076661433904050176"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2076661465625563167",
+        "created_at": "2026-07-13T13:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076661465625563167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYL9CE5Enk",
+              "end": 28,
+              "expanded_url": "https://x.com/ji_chu25601/status/2076661465625563167/video/1",
+              "media_key": "7_2076661433904050176",
+              "start": 5,
+              "url": "https://t.co/oYL9CE5Enk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076661465625563167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坤美面积 https://t.co/oYL9CE5Enk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 154,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

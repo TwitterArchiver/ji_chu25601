@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2024345266082763115",
+    "created_at": "2026-02-19T14:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024491317829525558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857119469757427712",
+          "start": 0,
+          "username": "When_tears"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024491317829525558",
+    "in_reply_to_user_id": "1857119469757427712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024345266082763115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@When_tears 所有人都聚焦在毛主席身上，没有人发现帖主很萌吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2024345258843373568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfrSZgbAAA5OQo.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2024345266082763115",
+        "created_at": "2026-02-19T14:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024491317829525558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857119469757427712",
+              "start": 0,
+              "username": "When_tears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024491317829525558",
+        "in_reply_to_user_id": "1857119469757427712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024345266082763115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@When_tears 所有人都聚焦在毛主席身上，没有人发现帖主很萌吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024345258843373568"
+          ]
+        },
+        "author_id": "1857119469757427712",
+        "conversation_id": "2024345266082763115",
+        "created_at": "2026-02-19T04:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024345266082763115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eIXWpwen9V",
+              "end": 73,
+              "expanded_url": "https://x.com/When_tears/status/2024345266082763115/photo/1",
+              "media_key": "3_2024345258843373568",
+              "start": 50,
+              "url": "https://t.co/eIXWpwen9V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024345266082763115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 29387,
+          "like_count": 284,
+          "quote_count": 2,
+          "reply_count": 70,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "毛主席，我想您了，您看看一堆有钱人，资产阶级，收一堆红包，我一个穷农民哭得泪流满面，您不心疼我吗？ https://t.co/eIXWpwen9V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 104
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T17:52:53.000Z",
+        "description": "你好我是小红 纯绿🚪52 当朋友圈发 不回复除了口令之外的任何消息（女宝除外🥰）",
+        "id": "1857119469757427712",
+        "location": "愛與痛的邊緣",
+        "name": "唉",
+        "pinned_tweet_id": "2019310293512507629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937054760609222656/uscnCM4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 111,
+          "like_count": 896,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 923
+        },
+        "username": "When_tears",
+        "verified": false
+      }
+    ]
+  }
+}

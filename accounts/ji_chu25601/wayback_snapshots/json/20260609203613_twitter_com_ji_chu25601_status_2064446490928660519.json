@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2064264629254320129",
+    "created_at": "2026-06-09T20:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T21:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064446490928660519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044068992491585536",
+          "start": 0,
+          "username": "Lingling527527"
+        },
+        {
+          "end": 30,
+          "id": "1653666360604647424",
+          "start": 16,
+          "username": "congng1327122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064446490928660519",
+    "in_reply_to_user_id": "2044068992491585536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064264629254320129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingling527527 @congng1327122 我真的很想要呀 ()蹲一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2064264629254320129",
+        "created_at": "2026-06-09T20:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064446490928660519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044068992491585536",
+              "start": 0,
+              "username": "Lingling527527"
+            },
+            {
+              "end": 30,
+              "id": "1653666360604647424",
+              "start": 16,
+              "username": "congng1327122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064446490928660519",
+        "in_reply_to_user_id": "2044068992491585536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064264629254320129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingling527527 @congng1327122 我真的很想要呀 ()蹲一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044068992491585536",
+        "conversation_id": "2064264629254320129",
+        "created_at": "2026-06-09T08:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064264629254320129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064264629254320129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "150fo抽人送75mg普瑞 转帖 关注 随机抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 91,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 372
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:03:53.000Z",
+        "description": "11/od/自残/cos/双相/重抑/重焦\n什么都发 ip武汉可以来找我玩\n^-^ 一个很温柔的od妹^-^",
+        "id": "2044068992491585536",
+        "location": "青少年灾难",
+        "name": "Lingling",
+        "pinned_tweet_id": "2058242546682544548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 78,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 163
+        },
+        "username": "Lingling527527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T07:42:51.000Z",
+        "description": "yukiso/愈｜我不怎么会回复 不过我很喜欢你们！感谢评论｜互fo 基本只回同类｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ac22161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ac22161",
+                "start": 0,
+                "url": "https://t.co/eE4dYT7zX6"
+              }
+            ]
+          }
+        },
+        "id": "1653666360604647424",
+        "location": "距离你0.1km",
+        "name": "ゆきそ",
+        "pinned_tweet_id": "2038853483722649632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064073250296983554/LbWwtr94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 155,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1324
+        },
+        "url": "https://t.co/eE4dYT7zX6",
+        "username": "congng1327122",
+        "verified": false
+      }
+    ]
+  }
+}

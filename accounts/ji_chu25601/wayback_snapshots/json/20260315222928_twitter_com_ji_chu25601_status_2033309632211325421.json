@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033309627736035329"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033309632211325421",
+    "created_at": "2026-03-15T22:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T23:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033309632211325421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sZrQ90UQ8D",
+          "end": 64,
+          "expanded_url": "https://x.com/ji_chu25601/status/2033309632211325421/photo/1",
+          "media_key": "3_2033309627736035329",
+          "start": 41,
+          "url": "https://t.co/sZrQ90UQ8D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033309632211325421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "711魔爪好便宜，但是旁边又有小吃街不过我真没钱，你又不出来买，我的马上就要到了 https://t.co/sZrQ90UQ8D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033309627736035329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDfEVV-WkAEF4FY.jpg",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033309627736035329"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033309632211325421",
+        "created_at": "2026-03-15T22:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T23:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033309632211325421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZrQ90UQ8D",
+              "end": 64,
+              "expanded_url": "https://x.com/ji_chu25601/status/2033309632211325421/photo/1",
+              "media_key": "3_2033309627736035329",
+              "start": 41,
+              "url": "https://t.co/sZrQ90UQ8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033309632211325421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "711魔爪好便宜，但是旁边又有小吃街不过我真没钱，你又不出来买，我的马上就要到了 https://t.co/sZrQ90UQ8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 155
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

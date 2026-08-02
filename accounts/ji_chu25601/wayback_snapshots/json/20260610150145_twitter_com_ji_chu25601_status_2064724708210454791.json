@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064724705916092418"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064724708210454791",
+    "created_at": "2026-06-10T15:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064724708210454791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fGdwSFHBTi",
+          "end": 132,
+          "expanded_url": "https://x.com/ji_chu25601/status/2064724708210454791/photo/1",
+          "media_key": "3_2064724705916092418",
+          "start": 109,
+          "url": "https://t.co/fGdwSFHBTi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064724708210454791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可能因为我朋友大部分都是女的最近最近有两个人找我扩列一个之前发的健全比另外一个日常给我发一些骑行的事儿我不想了解还跟我吐槽啥的我就偶尔回一下莫名其妙对我表白干嘛唯一影响的就是线下见到她很尴尬我生活刚有点起色世界就这样 https://t.co/fGdwSFHBTi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064724705916092418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdgLj8aAAIbaT4.jpg",
+        "width": 172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064724705916092418"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064724708210454791",
+        "created_at": "2026-06-10T15:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064724708210454791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGdwSFHBTi",
+              "end": 132,
+              "expanded_url": "https://x.com/ji_chu25601/status/2064724708210454791/photo/1",
+              "media_key": "3_2064724705916092418",
+              "start": 109,
+              "url": "https://t.co/fGdwSFHBTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064724708210454791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能因为我朋友大部分都是女的最近最近有两个人找我扩列一个之前发的健全比另外一个日常给我发一些骑行的事儿我不想了解还跟我吐槽啥的我就偶尔回一下莫名其妙对我表白干嘛唯一影响的就是线下见到她很尴尬我生活刚有点起色世界就这样 https://t.co/fGdwSFHBTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 95,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 377
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

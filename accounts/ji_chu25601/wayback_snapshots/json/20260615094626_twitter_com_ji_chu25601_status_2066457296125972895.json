@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066457293538111489"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2066457296125972895",
+    "created_at": "2026-06-15T09:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066457296125972895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0n921rElVU",
+          "end": 29,
+          "expanded_url": "https://x.com/ji_chu25601/status/2066457296125972895/photo/1",
+          "media_key": "3_2066457293538111489",
+          "start": 6,
+          "url": "https://t.co/0n921rElVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066457296125972895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求打赏() https://t.co/0n921rElVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2066457293538111489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2H9bzasAESh7_.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066457293538111489"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2066457296125972895",
+        "created_at": "2026-06-15T09:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066457296125972895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0n921rElVU",
+              "end": 29,
+              "expanded_url": "https://x.com/ji_chu25601/status/2066457296125972895/photo/1",
+              "media_key": "3_2066457293538111489",
+              "start": 6,
+              "url": "https://t.co/0n921rElVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066457296125972895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求打赏() https://t.co/0n921rElVU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "(欢迎互fo有点卡成分)ip广州",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2065648226682929507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 109,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 421
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

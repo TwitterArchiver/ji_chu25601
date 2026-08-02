@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2065058000134639616"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2065058086176563696",
+    "created_at": "2026-06-11T13:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065058086176563696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EfgIkEdmxW",
+          "end": 23,
+          "expanded_url": "https://x.com/ji_chu25601/status/2065058086176563696/video/1",
+          "media_key": "7_2065058000134639616",
+          "start": 0,
+          "url": "https://t.co/EfgIkEdmxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065058086176563696",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/EfgIkEdmxW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26621,
+        "height": 1280,
+        "media_key": "7_2065058000134639616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065058000134639616/pu/img/zpCcuxZG2xmGM0ji.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065058000134639616/pu/vid/avc1/320x568/wsx36W8jRVKEtW8t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065058000134639616/pu/vid/avc1/480x852/MhymE0BesfBb0isH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065058000134639616/pu/vid/avc1/720x1280/6yWALD587el3o5nh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065058000134639616/pu/pl/pRD6XaWntykxzJNc.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065058000134639616"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2065058086176563696",
+        "created_at": "2026-06-11T13:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065058086176563696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfgIkEdmxW",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065058086176563696/video/1",
+              "media_key": "7_2065058000134639616",
+              "start": 0,
+              "url": "https://t.co/EfgIkEdmxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065058086176563696",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EfgIkEdmxW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 99,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 392
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

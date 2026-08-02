@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063753784459972608",
+        "3_2063753784929775616"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2063753787358265678",
+    "created_at": "2026-06-07T22:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T23:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063753787358265678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5RP5OH8T2X",
+          "end": 23,
+          "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+          "media_key": "3_2063753784459972608",
+          "start": 0,
+          "url": "https://t.co/5RP5OH8T2X"
+        },
+        {
+          "display_url": "pic.x.com/5RP5OH8T2X",
+          "end": 23,
+          "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+          "media_key": "3_2063753784929775616",
+          "start": 0,
+          "url": "https://t.co/5RP5OH8T2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063753787358265678",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5RP5OH8T2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2063753784459972608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPtIfqa0AA5wd5.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2063753784929775616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPtIhabcAAYnRf.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063753784459972608",
+            "3_2063753784929775616"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2063753787358265678",
+        "created_at": "2026-06-07T22:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063753787358265678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RP5OH8T2X",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+              "media_key": "3_2063753784459972608",
+              "start": 0,
+              "url": "https://t.co/5RP5OH8T2X"
+            },
+            {
+              "display_url": "pic.x.com/5RP5OH8T2X",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+              "media_key": "3_2063753784929775616",
+              "start": 0,
+              "url": "https://t.co/5RP5OH8T2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063753787358265678",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5RP5OH8T2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 84,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 353
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

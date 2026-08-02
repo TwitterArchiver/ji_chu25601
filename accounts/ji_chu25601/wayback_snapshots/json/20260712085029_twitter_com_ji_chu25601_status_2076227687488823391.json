@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2076227687488823391",
+    "created_at": "2026-07-12T08:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076227687488823391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652985793290604545",
+          "start": 3,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076227687488823391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075883574784340392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuTri77: 我刷抖音刷到好多那种嗑感康能看见鬼什么什么的 感觉都是在装逼自己磕过药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2076227687488823391",
+        "created_at": "2026-07-12T08:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076227687488823391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652985793290604545",
+              "start": 3,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076227687488823391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075883574784340392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuTri77: 我刷抖音刷到好多那种嗑感康能看见鬼什么什么的 感觉都是在装逼自己磕过药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "2075883574784340392",
+        "created_at": "2026-07-11T10:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075883574784340392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075883574784340392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2702,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我刷抖音刷到好多那种嗑感康能看见鬼什么什么的 感觉都是在装逼自己磕过药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 150,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "世界是孕育痛苦的子宫 https://t.co/TmlcYNAd4j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nini96993",
+                "end": 34,
+                "expanded_url": "https://ngl.link/nini96993",
+                "start": 11,
+                "url": "https://t.co/TmlcYNAd4j"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88纯绿",
+        "name": "nini",
+        "pinned_tweet_id": "2073017263624687782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929674445811712/AaZ5P8FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12359,
+          "following_count": 267,
+          "like_count": 3429,
+          "listed_count": 22,
+          "media_count": 611,
+          "tweet_count": 2596
+        },
+        "url": "",
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

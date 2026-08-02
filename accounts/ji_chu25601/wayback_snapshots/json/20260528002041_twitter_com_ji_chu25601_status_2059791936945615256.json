@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2059568144986063105",
+    "created_at": "2026-05-28T00:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059791936945615256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        },
+        {
+          "end": 23,
+          "id": "1824675511865323520",
+          "start": 7,
+          "username": "whatismeff14354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059791936945615256",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059570169794744462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 @whatismeff14354 1社会𣎴接纳2可能性別焦虑3激素本身会影响情绪吧？)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2059568144986063105",
+        "created_at": "2026-05-28T00:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059791936945615256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            },
+            {
+              "end": 23,
+              "id": "1824675511865323520",
+              "start": 7,
+              "username": "whatismeff14354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059791936945615256",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059570169794744462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 @whatismeff14354 1社会𣎴接纳2可能性別焦虑3激素本身会影响情绪吧？)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456872541952229379",
+        "conversation_id": "2059568144986063105",
+        "created_at": "2026-05-27T09:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059570169794744462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824675511865323520",
+              "start": 0,
+              "username": "whatismeff14354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059570169794744462",
+        "in_reply_to_user_id": "1824675511865323520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059569648555987387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatismeff14354 是有精神问题的人都挤进了这个群体，所以这圈子神人多啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 67,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 269
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "底层农村人，并非做题家，基本每天长时间推特在线，爱好分享一些自己的魔改手办收藏，有兴趣可以私我进q群玩，对各种卡牌也很有兴趣，有所收藏，做梦高手，逃避人生高手，另外我被全身烧伤过，身体残疾，状态很差，有没有给我施舍点的……",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2058423290138329200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 1108,
+          "like_count": 69775,
+          "listed_count": 6,
+          "media_count": 1396,
+          "tweet_count": 19028
+        },
+        "username": "txqv3",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T05:12:11.000Z",
+        "description": "我有三根箭，一根射向伊斯兰，一根射向白左，一根射向极权主义者。\n                                                                            自由主义 务实进步派 百合爱好者 唯物主义  保卫我们的地球母亲😡😡😡\n主OC：云千叶😘😘😘",
+        "id": "1824675511865323520",
+        "name": "𝓎𝓊𝓃𝓆𝒾𝒶𝓃𝓎𝑒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005688858361344000/x6trMtVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 738,
+          "like_count": 2993,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2480
+        },
+        "username": "whatismeff14354",
+        "verified": false
+      }
+    ]
+  }
+}

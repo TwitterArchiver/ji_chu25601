@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2035676498435215788",
+    "created_at": "2026-03-22T16:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035753939941880131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918831724898951168",
+          "start": 0,
+          "username": "XYN1789927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035753939941880131",
+    "in_reply_to_user_id": "1918831724898951168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035711388908405017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYN1789927 对呀😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2035676498435215788",
+        "created_at": "2026-03-22T16:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035753939941880131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918831724898951168",
+              "start": 0,
+              "username": "XYN1789927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035753939941880131",
+        "in_reply_to_user_id": "1918831724898951168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035711388908405017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1789927 对呀😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918831724898951168",
+        "conversation_id": "2035676498435215788",
+        "created_at": "2026-03-22T13:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035711388908405017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035711388908405017",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035676498435215788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 这么快的嘛……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030569426282754048/BKNZdVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 174
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（），有时易燃易爆炸",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 146,
+          "like_count": 13820,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2342
+        },
+        "username": "XYN1789927",
+        "verified": false
+      }
+    ]
+  }
+}

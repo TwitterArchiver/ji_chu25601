@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063308730800955392"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2063308733317607469",
+    "created_at": "2026-06-06T17:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063308733317607469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qVdyHdxF72",
+          "end": 125,
+          "expanded_url": "https://x.com/ji_chu25601/status/2063308733317607469/photo/1",
+          "media_key": "3_2063308730800955392",
+          "start": 102,
+          "url": "https://t.co/qVdyHdxF72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063308733317607469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搞耍疯了品客薅别人假发后面互撕起来这朋友也是个男娘但是我很想笑的点就是这个水蓝色系之后粉色书包鱼板挂然后还有一个男娘出的好像是一个二游里面的叫做流萤其实让我绷不住的是这些刻板印象(没有歧视跨性别的意思) https://t.co/qVdyHdxF72"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2235,
+        "media_key": "3_2063308730800955392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJYW9laYAAbq9i.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063308730800955392"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2063308733317607469",
+        "created_at": "2026-06-06T17:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063308733317607469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVdyHdxF72",
+              "end": 125,
+              "expanded_url": "https://x.com/ji_chu25601/status/2063308733317607469/photo/1",
+              "media_key": "3_2063308730800955392",
+              "start": 102,
+              "url": "https://t.co/qVdyHdxF72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063308733317607469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞耍疯了品客薅别人假发后面互撕起来这朋友也是个男娘但是我很想笑的点就是这个水蓝色系之后粉色书包鱼板挂然后还有一个男娘出的好像是一个二游里面的叫做流萤其实让我绷不住的是这些刻板印象(没有歧视跨性别的意思) https://t.co/qVdyHdxF72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 81,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 347
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

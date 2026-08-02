@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066537188612063232"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2066537191233515975",
+    "created_at": "2026-06-15T15:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066537191233515975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zg3nfc2NuD",
+          "end": 33,
+          "expanded_url": "https://x.com/ji_chu25601/status/2066537191233515975/photo/1",
+          "media_key": "3_2066537188612063232",
+          "start": 10,
+          "url": "https://t.co/Zg3nfc2NuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066537191233515975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "医生我想开普瑞巴林 https://t.co/Zg3nfc2NuD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066537188612063232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3Qn8JbQAASVKZ.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066537188612063232"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2066537191233515975",
+        "created_at": "2026-06-15T15:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066537191233515975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zg3nfc2NuD",
+              "end": 33,
+              "expanded_url": "https://x.com/ji_chu25601/status/2066537191233515975/photo/1",
+              "media_key": "3_2066537188612063232",
+              "start": 10,
+              "url": "https://t.co/Zg3nfc2NuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537191233515975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我想开普瑞巴林 https://t.co/Zg3nfc2NuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "(欢迎互fo有点卡成分)ip广州",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2066457296125972895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 109,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 422
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2060981071605625239",
+    "created_at": "2026-05-31T14:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061092166890582041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907858037571993600",
+          "start": 0,
+          "username": "junmo4114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061092166890582041",
+    "in_reply_to_user_id": "1907858037571993600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061091945603379587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junmo4114 原来是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2060981071605625239",
+        "created_at": "2026-05-31T14:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061092166890582041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907858037571993600",
+              "start": 0,
+              "username": "junmo4114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061092166890582041",
+        "in_reply_to_user_id": "1907858037571993600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061091945603379587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junmo4114 原来是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907858037571993600",
+        "conversation_id": "2060981071605625239",
+        "created_at": "2026-05-31T14:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061091945603379587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061091945603379587",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061090698431172700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 那就是刷到相似的了。挺还原的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 66,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 297
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T18:09:54.000Z",
+        "description": "一个二次元",
+        "id": "1907858037571993600",
+        "location": "北京门头沟",
+        "name": "君别莫见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059170244783112192/1X-bmAms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 35
+        },
+        "username": "junmo4114",
+        "verified": false
+      }
+    ]
+  }
+}

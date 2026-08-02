@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "1986290109860491412",
+    "created_at": "2025-11-06T18:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T19:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986504678713217281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979159324896432135",
+          "start": 0,
+          "username": "JohnLone246312"
+        },
+        {
+          "end": 30,
+          "id": "1963318520680517632",
+          "start": 16,
+          "username": "luoyingxingyu"
+        },
+        {
+          "end": 41,
+          "id": "1904517913538932736",
+          "start": 31,
+          "username": "cnmnms666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986504678713217281",
+    "in_reply_to_user_id": "1979159324896432135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986502303546061148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnLone246312 @luoyingxingyu @cnmnms666 有些地方物价低，最少可能一块五"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "1986290109860491412",
+        "created_at": "2025-11-06T18:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986504678713217281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979159324896432135",
+              "start": 0,
+              "username": "JohnLone246312"
+            },
+            {
+              "end": 30,
+              "id": "1963318520680517632",
+              "start": 16,
+              "username": "luoyingxingyu"
+            },
+            {
+              "end": 41,
+              "id": "1904517913538932736",
+              "start": 31,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986504678713217281",
+        "in_reply_to_user_id": "1979159324896432135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986502303546061148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnLone246312 @luoyingxingyu @cnmnms666 有些地方物价低，最少可能一块五"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979159324896432135",
+        "conversation_id": "1986290109860491412",
+        "created_at": "2025-11-06T18:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986502303546061148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963318520680517632",
+              "start": 0,
+              "username": "luoyingxingyu"
+            },
+            {
+              "end": 25,
+              "id": "1904517913538932736",
+              "start": 15,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986502303546061148",
+        "in_reply_to_user_id": "1963318520680517632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986400278325960978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoyingxingyu @cnmnms666 吃的什麼玩意兒？茶葉蛋就要兩元了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T12:19:42.000Z",
+        "description": "支持中華民國光復",
+        "id": "1979159324896432135",
+        "location": "共產黨滅亡紀念館",
+        "name": "John Lone(互)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979172184619651072/eXbFvPZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 57,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 230
+        },
+        "username": "JohnLone246312",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T19:09:56.000Z",
+        "description": "Where are you going",
+        "id": "1963318520680517632",
+        "name": "春蝶沉眠花海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973708113305030656/Djlo5mCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 22,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 49
+        },
+        "username": "luoyingxingyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T12:57:18.000Z",
+        "description": "冷知识：这是我双生姐妹@8964_Y ｜懂得都懂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1904517913538932736",
+        "name": "草拟吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973782029574807553/nBIDGb1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 168,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 170
+        },
+        "username": "cnmnms666",
+        "verified": false
+      }
+    ]
+  }
+}

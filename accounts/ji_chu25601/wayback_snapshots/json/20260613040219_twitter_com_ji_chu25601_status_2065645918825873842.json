@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2065645918825873842",
+    "created_at": "2026-06-13T04:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065645918825873842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065444618855182336",
+          "start": 3,
+          "username": "odprdxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065645918825873842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065644855792111859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odprdxm: 求同类互fo😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2065645918825873842",
+        "created_at": "2026-06-13T04:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065645918825873842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065444618855182336",
+              "start": 3,
+              "username": "odprdxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065645918825873842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065644855792111859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odprdxm: 求同类互fo😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065444618855182336",
+        "conversation_id": "2065644855792111859",
+        "created_at": "2026-06-13T03:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065644855792111859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065644855792111859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求同类互fo😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 101,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 394
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T14:43:48.000Z",
+        "description": "欢迎互fo健b除外",
+        "id": "2065444618855182336",
+        "name": "强效解离",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065446172643545088/qqLqYM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "odprdxm",
+        "verified": false
+      }
+    ]
+  }
+}

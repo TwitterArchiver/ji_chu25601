@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067314315552817152"
+      ],
+      "media_source_tweet_id": [
+        "2067314383659905234"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2067729584926364083",
+    "created_at": "2026-06-18T22:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T23:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067729584926364083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037894239020105728",
+          "start": 3,
+          "username": "evil2711_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b604fd2Y5b",
+          "end": 43,
+          "expanded_url": "https://x.com/evil2711_/status/2067314383659905234/video/1",
+          "media_key": "13_2067314315552817152",
+          "start": 20,
+          "url": "https://t.co/b604fd2Y5b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067729584926364083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067314383659905234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evil2711_: 我不行了 https://t.co/b604fd2Y5b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12431,
+        "height": 1218,
+        "media_key": "13_2067314315552817152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067314315552817152/img/GKOHwYT9pGXwlAdv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067314315552817152/vid/avc1/320x540/AxWqdg1jHdJ1aKk8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067314315552817152/vid/avc1/480x812/JT2NVf0AOWQenQEY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067314315552817152/vid/avc1/720x1218/pL2YNm4kgIDDhZY2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067314315552817152/pl/RHXArXEh5V330l2O.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067314315552817152"
+          ],
+          "media_source_tweet_id": [
+            "2067314383659905234"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2067729584926364083",
+        "created_at": "2026-06-18T22:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067729584926364083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037894239020105728",
+              "start": 3,
+              "username": "evil2711_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b604fd2Y5b",
+              "end": 43,
+              "expanded_url": "https://x.com/evil2711_/status/2067314383659905234/video/1",
+              "media_key": "13_2067314315552817152",
+              "start": 20,
+              "url": "https://t.co/b604fd2Y5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067729584926364083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067314383659905234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evil2711_: 我不行了 https://t.co/b604fd2Y5b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067314315552817152"
+          ]
+        },
+        "author_id": "2037894239020105728",
+        "conversation_id": "2067314383659905234",
+        "created_at": "2026-06-17T18:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067314383659905234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b604fd2Y5b",
+              "end": 28,
+              "expanded_url": "https://x.com/evil2711_/status/2067314383659905234/video/1",
+              "media_key": "13_2067314315552817152",
+              "start": 5,
+              "url": "https://t.co/b604fd2Y5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067314383659905234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/b604fd2Y5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 129,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T14:07:52.000Z",
+        "description": "一个乐乐",
+        "id": "2037894239020105728",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058415805654867968/aCvVKjyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "evil2711_",
+        "verified": false
+      }
+    ]
+  }
+}

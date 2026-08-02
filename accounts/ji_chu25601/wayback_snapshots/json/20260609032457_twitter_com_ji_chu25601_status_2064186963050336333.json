@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064186960743424000"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064186963050336333",
+    "created_at": "2026-06-09T03:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064186963050336333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YtqFBsyXLU",
+          "end": 81,
+          "expanded_url": "https://x.com/ji_chu25601/status/2064186963050336333/photo/1",
+          "media_key": "3_2064186960743424000",
+          "start": 58,
+          "url": "https://t.co/YtqFBsyXLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064186963050336333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本以为在自己不在扩列三次就不会被不熟的健全b给直接问出来其它人最多关心关心我这样子这人完全健全比()说话也太典了吧 https://t.co/YtqFBsyXLU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064186960743424000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV3GrEa4AAMvi-.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064186960743424000"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064186963050336333",
+        "created_at": "2026-06-09T03:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064186963050336333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtqFBsyXLU",
+              "end": 81,
+              "expanded_url": "https://x.com/ji_chu25601/status/2064186963050336333/photo/1",
+              "media_key": "3_2064186960743424000",
+              "start": 58,
+              "url": "https://t.co/YtqFBsyXLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064186963050336333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本以为在自己不在扩列三次就不会被不熟的健全b给直接问出来其它人最多关心关心我这样子这人完全健全比()说话也太典了吧 https://t.co/YtqFBsyXLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 89,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 359
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

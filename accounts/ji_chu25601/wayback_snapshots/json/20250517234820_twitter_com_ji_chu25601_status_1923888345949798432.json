@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1923888345949798432",
+    "created_at": "2025-05-17T23:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T00:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923888345949798432"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 78,
+          "normalized_text": "Saiko no Sutoka",
+          "probability": 0.7736,
+          "start": 64,
+          "type": "Other"
+        },
+        {
+          "end": 90,
+          "normalized_text": "AWA",
+          "probability": 0.4663,
+          "start": 88,
+          "type": "Other"
+        },
+        {
+          "end": 111,
+          "normalized_text": "saikonosutoka",
+          "probability": 0.7976,
+          "start": 99,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "awa23",
+          "probability": 0.5093,
+          "start": 114,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 112,
+          "start": 98,
+          "tag": "saikonosutoka"
+        },
+        {
+          "end": 119,
+          "start": 113,
+          "tag": "awa23"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620590885351182336",
+          "start": 3,
+          "username": "c1ericbeast"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/kX9E1c",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/kX9E1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923888345949798432",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1700688057593205101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c1ericbeast: I still have a lot to do with this cosplay but Saiko no Sutoka wip for AWA 2023! #saikonosutoka #awa23 https://t.co/kX9E1c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1454,
+        "media_key": "3_1700688052878729216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F5oOxgGWYAAhkMC.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1923888345949798432",
+        "created_at": "2025-05-17T23:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T00:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923888345949798432"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "Saiko no Sutoka",
+              "probability": 0.7736,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "AWA",
+              "probability": 0.4663,
+              "start": 88,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "saikonosutoka",
+              "probability": 0.7976,
+              "start": 99,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "awa23",
+              "probability": 0.5093,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 98,
+              "tag": "saikonosutoka"
+            },
+            {
+              "end": 119,
+              "start": 113,
+              "tag": "awa23"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620590885351182336",
+              "start": 3,
+              "username": "c1ericbeast"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/kX9E1c",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/kX9E1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923888345949798432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1700688057593205101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c1ericbeast: I still have a lot to do with this cosplay but Saiko no Sutoka wip for AWA 2023! #saikonosutoka #awa23 https://t.co/kX9E1c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1700688052878729216"
+          ]
+        },
+        "author_id": "1620590885351182336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1700688057593205101",
+        "created_at": "2023-09-10T01:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-10T02:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1700688057593205101"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Saiko no Sutoka wip",
+              "probability": 0.7195,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "AWA",
+              "probability": 0.535,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "saikonosutoka",
+              "probability": 0.8188,
+              "start": 82,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "awa23",
+              "probability": 0.594,
+              "start": 97,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 81,
+              "tag": "saikonosutoka"
+            },
+            {
+              "end": 102,
+              "start": 96,
+              "tag": "awa23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kX9E1c1WTe",
+              "end": 126,
+              "expanded_url": "https://x.com/clericxbeast/status/1700688057593205101/photo/1",
+              "media_key": "3_1700688052878729216",
+              "start": 103,
+              "url": "https://t.co/kX9E1c1WTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1700688057593205101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1619,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "I still have a lot to do with this cosplay but Saiko no Sutoka wip for AWA 2023! #saikonosutoka #awa23 https://t.co/kX9E1c1WTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "焱音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919420516131323904/tnYV7Fxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T01:12:40.000Z",
+        "description": "⚰️🦇⚰️𝖛𝖆𝖒𝖕𝖎𝖗𝖊 𝖇𝖆𝖙 𝖘𝖙𝖗𝖊𝖆𝖒𝖊𝖗\nI like vampires and horror\n🖤🖤Xander🖤🖤\nVisual Kei is also great\nI sometimes stream\nOfficial model TBA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/juuriscarlet",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/juuriscarlet",
+                "start": 0,
+                "url": "https://t.co/GyfHQjge5l"
+              }
+            ]
+          }
+        },
+        "id": "1620590885351182336",
+        "location": "somewhere ",
+        "name": "♰𝕁𝕦𝕦𝕣𝕚 𝕊𝕔𝕒𝕣𝕝𝕖𝕥🦇♰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916683254188359680/HyvBVSzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 583,
+          "like_count": 37105,
+          "listed_count": 4,
+          "media_count": 841,
+          "tweet_count": 19853
+        },
+        "url": "https://t.co/GyfHQjge5l",
+        "username": "c1ericbeast",
+        "verified": false
+      }
+    ]
+  }
+}

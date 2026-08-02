@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2061789382236074428",
+    "created_at": "2026-06-02T12:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061789946894229891"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061789946894229891",
+    "in_reply_to_user_id": "1910629733785870336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061789382236074428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯对我累的时候就跟这个猫是差不多的就圆滚滚的躺在这里 (没那么可爱 )😼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2061789379841118208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzyhGMaUAA8G0d.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2061789382236074428",
+        "created_at": "2026-06-02T12:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061789946894229891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061789946894229891",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061789382236074428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯对我累的时候就跟这个猫是差不多的就圆滚滚的躺在这里 (没那么可爱 )😼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061789379841118208"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2061789382236074428",
+        "created_at": "2026-06-02T12:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061789382236074428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXyGmHCQWe",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/2061789382236074428/photo/1",
+              "media_key": "3_2061789379841118208",
+              "start": 0,
+              "url": "https://t.co/wXyGmHCQWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061789382236074428",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wXyGmHCQWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 72,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 312
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

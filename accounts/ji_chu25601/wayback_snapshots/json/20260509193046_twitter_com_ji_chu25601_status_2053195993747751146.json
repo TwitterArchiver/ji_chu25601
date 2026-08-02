@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2053009255733838002",
+    "created_at": "2026-05-09T19:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T20:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053195993747751146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589508609578176512",
+          "start": 0,
+          "username": "mifanmiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053195993747751146",
+    "in_reply_to_user_id": "1589508609578176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053009255733838002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mifanmiaomiao 恭喜呀太厉害了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2053009255733838002",
+        "created_at": "2026-05-09T19:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053195993747751146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589508609578176512",
+              "start": 0,
+              "username": "mifanmiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053195993747751146",
+        "in_reply_to_user_id": "1589508609578176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053009255733838002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mifanmiaomiao 恭喜呀太厉害了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589508609578176512",
+        "conversation_id": "2053009255733838002",
+        "created_at": "2026-05-09T07:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053009255733838002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053009255733838002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都来恭喜这个米花糖！成功戒掉了od~~🎉🎉🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 37,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 174
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！正在努力学英语润出去.. 会给互fo画画（不过技术不太好 /画的有些慢） Telegram群: https://t.co/R8kPJWeLsh欢迎各位宝宝来群里面聊天~🥰有对象别骚扰我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+VOAVfurE50NlZ…",
+                "end": 107,
+                "expanded_url": "https://t.me/+VOAVfurE50NlZjQx",
+                "start": 84,
+                "url": "https://t.co/R8kPJWeLsh"
+              }
+            ]
+          }
+        },
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "2043489209965740412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 1040,
+          "like_count": 8781,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 2516
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

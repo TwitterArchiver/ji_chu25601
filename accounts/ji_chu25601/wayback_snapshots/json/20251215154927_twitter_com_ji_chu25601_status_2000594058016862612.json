@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2000514458763042826",
+    "created_at": "2025-12-15T15:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000594058016862612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921834682544713728",
+          "start": 0,
+          "username": "tree27666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000594058016862612",
+    "in_reply_to_user_id": "1921834682544713728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000514458763042826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tree27666 为啥最近一堆人说如果禁了😧是可能快禁了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2000514458763042826",
+        "created_at": "2025-12-15T15:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000594058016862612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921834682544713728",
+              "start": 0,
+              "username": "tree27666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000594058016862612",
+        "in_reply_to_user_id": "1921834682544713728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000514458763042826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tree27666 为啥最近一堆人说如果禁了😧是可能快禁了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921834682544713728",
+        "conversation_id": "2000514458763042826",
+        "created_at": "2025-12-15T10:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000514458763042826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000514458763042826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1877,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞如果禁了还能o啥啊 好恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "摩妄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082071919267842/hsEIiBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 60
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:48:00.000Z",
+        "description": "一个很烂的人🍂｜les0.9｜istp｜LGBTQ+友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%B6%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%B6%E5%AD%9023746",
+                "start": 0,
+                "url": "https://t.co/lAutvuiyVv"
+              }
+            ]
+          }
+        },
+        "id": "1921834682544713728",
+        "name": "叶子",
+        "pinned_tweet_id": "1989681857407922433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970727729512546304/HVBQbYIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 38,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/lAutvuiyVv",
+        "username": "tree27666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1715372181088325632"
+      ],
+      "media_source_tweet_id": [
+        "1715372388496662804"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942997471359308040",
+    "created_at": "2025-07-09T17:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T18:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942997471359308040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "912232418832089088",
+          "start": 3,
+          "username": "stx7fan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OhgC4udxd9",
+          "end": 70,
+          "expanded_url": "https://x.com/stx7fan/status/1715372388496662804/video/1",
+          "media_key": "7_1715372181088325632",
+          "start": 47,
+          "url": "https://t.co/OhgC4udxd9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942997471359308040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1715372388496662804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stx7fan: 在上海乐展cos了孤独摇滚的波奇酱\n……人好多……手抖但弹下来了！ https://t.co/OhgC4udxd9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 92185,
+        "height": 1280,
+        "media_key": "7_1715372181088325632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1715372181088325632/pu/img/A1kKf9jmYlVL1XCh.jpg",
+        "public_metrics": {
+          "view_count": 3352
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1715372181088325632/pu/vid/avc1/320x568/UtYjRb0Wmei6kcUp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1715372181088325632/pu/vid/avc1/480x852/PptukviWZVGzkvvQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1715372181088325632/pu/vid/avc1/720x1280/ZNrsVQVPtHWylDiA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1715372181088325632/pu/pl/AvWW36Piykakb2Sx.m3u8?tag=12&v=1d4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1715372181088325632"
+          ],
+          "media_source_tweet_id": [
+            "1715372388496662804"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942997471359308040",
+        "created_at": "2025-07-09T17:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T18:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942997471359308040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "912232418832089088",
+              "start": 3,
+              "username": "stx7fan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhgC4udxd9",
+              "end": 70,
+              "expanded_url": "https://x.com/stx7fan/status/1715372388496662804/video/1",
+              "media_key": "7_1715372181088325632",
+              "start": 47,
+              "url": "https://t.co/OhgC4udxd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942997471359308040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1715372388496662804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stx7fan: 在上海乐展cos了孤独摇滚的波奇酱\n……人好多……手抖但弹下来了！ https://t.co/OhgC4udxd9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1715372181088325632"
+          ]
+        },
+        "author_id": "912232418832089088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1715372388496662804",
+        "created_at": "2023-10-20T14:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-20T15:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1715372388496662804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhgC4udxd9",
+              "end": 57,
+              "expanded_url": "https://x.com/stx7fan/status/1715372388496662804/video/1",
+              "media_key": "7_1715372181088325632",
+              "start": 34,
+              "url": "https://t.co/OhgC4udxd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1715372388496662804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15365,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "在上海乐展cos了孤独摇滚的波奇酱\n……人好多……手抖但弹下来了！ https://t.co/OhgC4udxd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "焱音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919420516131323904/tnYV7Fxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-25T08:28:51.000Z",
+        "description": "🇨🇳 ins: _stx7fan   weibo:池田七帆七田池",
+        "id": "912232418832089088",
+        "location": "Shenzhen,China",
+        "name": "七帆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1237970713127972864/oHqhyPOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3645,
+          "following_count": 14,
+          "like_count": 84,
+          "listed_count": 22,
+          "media_count": 41,
+          "tweet_count": 56
+        },
+        "username": "stx7fan",
+        "verified": false
+      }
+    ]
+  }
+}

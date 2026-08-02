@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2060981071605625239",
+    "created_at": "2026-05-31T14:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061090805868298404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050550999518171136",
+          "start": 0,
+          "username": "ming_ni85424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061090805868298404",
+    "in_reply_to_user_id": "2050550999518171136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061001485279011229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_ni85424 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2060981071605625239",
+        "created_at": "2026-05-31T14:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061090805868298404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050550999518171136",
+              "start": 0,
+              "username": "ming_ni85424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061090805868298404",
+        "in_reply_to_user_id": "2050550999518171136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061001485279011229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_ni85424 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050550999518171136",
+        "conversation_id": "2060981071605625239",
+        "created_at": "2026-05-31T08:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061001485279011229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061001485279011229",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060981071605625239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 智子吗？太瘦了吧\n太像了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 66,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 296
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T12:20:43.000Z",
+        "description": "Vega",
+        "id": "2050550999518171136",
+        "name": "水果宾治武士G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058044413218361344/FhwaH778_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 72,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 645
+        },
+        "username": "ming_ni85424",
+        "verified": false
+      }
+    ]
+  }
+}

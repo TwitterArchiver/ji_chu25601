@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2064685830292332995",
+    "created_at": "2026-06-11T11:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065035375035531500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2037894239020105728",
+          "start": 0,
+          "username": "evil2711_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065035375035531500",
+    "in_reply_to_user_id": "2037894239020105728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065025471356748040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evil2711_ 胶囊会减慢吸收速度好像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2064685830292332995",
+        "created_at": "2026-06-11T11:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065035375035531500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2037894239020105728",
+              "start": 0,
+              "username": "evil2711_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065035375035531500",
+        "in_reply_to_user_id": "2037894239020105728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065025471356748040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evil2711_ 胶囊会减慢吸收速度好像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037894239020105728",
+        "conversation_id": "2064685830292332995",
+        "created_at": "2026-06-11T10:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065025471356748040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065025471356748040",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064685830292332995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 这样伤食道呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 99,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 390
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T14:07:52.000Z",
+        "description": "",
+        "id": "2037894239020105728",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058415805654867968/aCvVKjyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 339
+        },
+        "username": "evil2711_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089471842138648576"
+      ],
+      "media_source_tweet_id": [
+        "2089471858366423129"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2089478051877015877",
+    "created_at": "2026-08-17T22:22:42.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T23:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089478051877015877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "日系"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "挂逼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070320327276855296",
+          "start": 3,
+          "username": "sha923ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/moAvETpQHo",
+          "end": 46,
+          "expanded_url": "https://x.com/sha923ovo/status/2089471858366423129/photo/1",
+          "media_key": "3_2089471842138648576",
+          "start": 23,
+          "url": "https://t.co/moAvETpQHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089478051877015877",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2089471842138648576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089471858366423129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sha923ovo: #日系 #挂逼 https://t.co/moAvETpQHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2089471842138648576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9Lkeba8AAvpd4.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089471842138648576"
+          ],
+          "media_source_tweet_id": [
+            "2089471858366423129"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2089478051877015877",
+        "created_at": "2026-08-17T22:22:42.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089478051877015877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "日系"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "挂逼"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070320327276855296",
+              "start": 3,
+              "username": "sha923ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/moAvETpQHo",
+              "end": 46,
+              "expanded_url": "https://x.com/sha923ovo/status/2089471858366423129/photo/1",
+              "media_key": "3_2089471842138648576",
+              "start": 23,
+              "url": "https://t.co/moAvETpQHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089478051877015877",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089471842138648576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089471858366423129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sha923ovo: #日系 #挂逼 https://t.co/moAvETpQHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089471842138648576"
+          ]
+        },
+        "author_id": "2070320327276855296",
+        "conversation_id": "2089471858366423129",
+        "created_at": "2026-08-17T21:58:06.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089471858366423129"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "日系"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "挂逼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/moAvETpQHo",
+              "end": 31,
+              "expanded_url": "https://x.com/sha923ovo/status/2089471858366423129/photo/1",
+              "media_key": "3_2089471842138648576",
+              "start": 8,
+              "url": "https://t.co/moAvETpQHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089471858366423129",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089471842138648576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#日系 #挂逼 https://t.co/moAvETpQHo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089478051877015877",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 147,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 629
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T01:39:02.000Z",
+        "description": "こんにちは",
+        "id": "2070320327276855296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089471858366423129",
+        "name": "次泪ouo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070320327276855296/1784995197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074072349318742016/85P-CWob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 14,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "sha923ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

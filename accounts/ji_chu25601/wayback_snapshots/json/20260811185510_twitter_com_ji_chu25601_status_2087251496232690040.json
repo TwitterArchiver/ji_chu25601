@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087112622907035648",
+        "3_2087112631559843840",
+        "3_2087112644293697536",
+        "3_2087112652544000000"
+      ],
+      "media_source_tweet_id": [
+        "2087112689919353289",
+        "2087112689919353289",
+        "2087112689919353289",
+        "2087112689919353289"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2087251496232690040",
+    "created_at": "2026-08-11T18:55:10.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087251496232690040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1552238688590958592",
+          "start": 3,
+          "username": "Coccus_Swamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xF34Xth8fj",
+          "end": 77,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+          "media_key": "3_2087112622907035648",
+          "start": 54,
+          "url": "https://t.co/xF34Xth8fj"
+        },
+        {
+          "display_url": "pic.x.com/xF34Xth8fj",
+          "end": 77,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+          "media_key": "3_2087112631559843840",
+          "start": 54,
+          "url": "https://t.co/xF34Xth8fj"
+        },
+        {
+          "display_url": "pic.x.com/xF34Xth8fj",
+          "end": 77,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+          "media_key": "3_2087112644293697536",
+          "start": 54,
+          "url": "https://t.co/xF34Xth8fj"
+        },
+        {
+          "display_url": "pic.x.com/xF34Xth8fj",
+          "end": 77,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+          "media_key": "3_2087112652544000000",
+          "start": 54,
+          "url": "https://t.co/xF34Xth8fj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087251496232690040",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087112622907035648"
+      },
+      {
+        "media_key": "3_2087112631559843840"
+      },
+      {
+        "media_key": "3_2087112644293697536"
+      },
+      {
+        "media_key": "3_2087112652544000000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087112689919353289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coccus_Swamer: 你还是正常一点吧 你的脸还没好看到可以让人原谅你的伤疤和精神病的程度 https://t.co/xF34Xth8fj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2087112622907035648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbp316bkAApqzT.jpg",
+        "width": 2400
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087112631559843840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbp4WJa8AAG0wU.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2087112644293697536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbp5FlaIAALzQN.jpg",
+        "width": 2400
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087112652544000000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbp5kUbwAA5AMF.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087112622907035648",
+            "3_2087112631559843840",
+            "3_2087112644293697536",
+            "3_2087112652544000000"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2087112689919353289",
+        "created_at": "2026-08-11T09:43:36.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087112689919353289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF34Xth8fj",
+              "end": 58,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+              "media_key": "3_2087112622907035648",
+              "start": 35,
+              "url": "https://t.co/xF34Xth8fj"
+            },
+            {
+              "display_url": "pic.x.com/xF34Xth8fj",
+              "end": 58,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+              "media_key": "3_2087112631559843840",
+              "start": 35,
+              "url": "https://t.co/xF34Xth8fj"
+            },
+            {
+              "display_url": "pic.x.com/xF34Xth8fj",
+              "end": 58,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+              "media_key": "3_2087112644293697536",
+              "start": 35,
+              "url": "https://t.co/xF34Xth8fj"
+            },
+            {
+              "display_url": "pic.x.com/xF34Xth8fj",
+              "end": 58,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+              "media_key": "3_2087112652544000000",
+              "start": 35,
+              "url": "https://t.co/xF34Xth8fj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087112689919353289",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087112622907035648"
+          },
+          {
+            "media_key": "3_2087112631559843840"
+          },
+          {
+            "media_key": "3_2087112644293697536"
+          },
+          {
+            "media_key": "3_2087112652544000000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1768,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你还是正常一点吧 你的脸还没好看到可以让人原谅你的伤疤和精神病的程度 https://t.co/xF34Xth8fj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087112622907035648",
+            "3_2087112631559843840",
+            "3_2087112644293697536",
+            "3_2087112652544000000"
+          ],
+          "media_source_tweet_id": [
+            "2087112689919353289",
+            "2087112689919353289",
+            "2087112689919353289",
+            "2087112689919353289"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2087251496232690040",
+        "created_at": "2026-08-11T18:55:10.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087251496232690040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1552238688590958592",
+              "start": 3,
+              "username": "Coccus_Swamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF34Xth8fj",
+              "end": 77,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+              "media_key": "3_2087112622907035648",
+              "start": 54,
+              "url": "https://t.co/xF34Xth8fj"
+            },
+            {
+              "display_url": "pic.x.com/xF34Xth8fj",
+              "end": 77,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+              "media_key": "3_2087112631559843840",
+              "start": 54,
+              "url": "https://t.co/xF34Xth8fj"
+            },
+            {
+              "display_url": "pic.x.com/xF34Xth8fj",
+              "end": 77,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+              "media_key": "3_2087112644293697536",
+              "start": 54,
+              "url": "https://t.co/xF34Xth8fj"
+            },
+            {
+              "display_url": "pic.x.com/xF34Xth8fj",
+              "end": 77,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2087112689919353289/photo/1",
+              "media_key": "3_2087112652544000000",
+              "start": 54,
+              "url": "https://t.co/xF34Xth8fj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087251496232690040",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087112622907035648"
+          },
+          {
+            "media_key": "3_2087112631559843840"
+          },
+          {
+            "media_key": "3_2087112644293697536"
+          },
+          {
+            "media_key": "3_2087112652544000000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087112689919353289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coccus_Swamer: 你还是正常一点吧 你的脸还没好看到可以让人原谅你的伤疤和精神病的程度 https://t.co/xF34Xth8fj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087251496232690040",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 151,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2087209272795099304",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 2734,
+          "like_count": 10148,
+          "listed_count": 0,
+          "media_count": 710,
+          "tweet_count": 3751
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

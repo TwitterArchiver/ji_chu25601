@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2096951399938728427",
+    "created_at": "2026-09-08T06:57:40.000Z",
+    "display_text_range": [
+      22,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097217789706838116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824740901559951360",
+          "start": 0,
+          "username": "ventrgg"
+        },
+        {
+          "end": 21,
+          "id": "1687566770763071489",
+          "start": 9,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097217789706838116",
+    "in_reply_to_user_id": "1824740901559951360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097136069200462072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ventrgg @Olebe179131 但是未成年人不让自己开呀 现在也查的严了早些几个月我家那个三线小城市带家长去就能了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2096951399938728427",
+        "created_at": "2026-09-08T06:57:40.000Z",
+        "display_text_range": [
+          22,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097217789706838116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824740901559951360",
+              "start": 0,
+              "username": "ventrgg"
+            },
+            {
+              "end": 21,
+              "id": "1687566770763071489",
+              "start": 9,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097217789706838116",
+        "in_reply_to_user_id": "1824740901559951360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097136069200462072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ventrgg @Olebe179131 但是未成年人不让自己开呀 现在也查的严了早些几个月我家那个三线小城市带家长去就能了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824740901559951360",
+        "conversation_id": "2096951399938728427",
+        "created_at": "2026-09-08T01:32:56.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T02:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097136069200462072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097136069200462072",
+        "in_reply_to_user_id": "1824740901559951360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097135978075025658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 推上很容易被骗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "欢迎互fo!",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097217789706838116",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 144,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-17T09:31:57.000Z",
+        "description": "🚪89.64，用于建设祖国\n徐王之女爱割手☺️日中混血\n直fo都会回，不跟主页全是网黄的人互关😡",
+        "id": "1824740901559951360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097136069200462072",
+        "name": "溶ける8964",
+        "pinned_tweet_id": "2075444549955240291",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824740901559951360/1782529284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091533346539184129/2rf6LXsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 49,
+          "like_count": 7952,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "ventrgg",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)蔚蓝档案\n欢迎互fo",
+        "id": "1687566770763071489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096951399938728427",
+        "name": "多柔比星",
+        "pinned_tweet_id": "2045366449938878769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687566770763071489/1774773459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089602346787774464/c8ZTtYIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 575,
+          "like_count": 29879,
+          "listed_count": 0,
+          "media_count": 1010,
+          "tweet_count": 3457
+        },
+        "url": "",
+        "username": "Olebe179131",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

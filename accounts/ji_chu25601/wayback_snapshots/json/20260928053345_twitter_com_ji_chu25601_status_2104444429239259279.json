@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2104444429239259279",
+    "created_at": "2026-09-28T05:33:45.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104444429239259279"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104444429239259279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈说我上班𣎴要睡觉刚好也是最近开了pr之后我上班不吃pr了他说我无精打采是不是吃药吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2104444429239259279",
+        "created_at": "2026-09-28T05:33:45.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104444429239259279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104444429239259279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈说我上班𣎴要睡觉刚好也是最近开了pr之后我上班不吃pr了他说我无精打采是不是吃药吃的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "欢迎互fo!",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104444429239259279",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 140,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

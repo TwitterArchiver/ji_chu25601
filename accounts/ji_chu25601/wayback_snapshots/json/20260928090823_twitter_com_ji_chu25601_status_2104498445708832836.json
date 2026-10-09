@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2104381799178846316",
+    "created_at": "2026-09-28T09:08:23.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T10:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104498445708832836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104498445708832836",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104381799178846316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 真的𣎴会死吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2104381799178846316",
+        "created_at": "2026-09-28T09:08:23.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104498445708832836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104498445708832836",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104381799178846316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 真的𣎴会死吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860377535215013888",
+        "conversation_id": "2104381799178846316",
+        "created_at": "2026-09-28T01:24:53.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104381799178846316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104381799178846316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1050mgpr+300mg巴氯芬+11t金刚烷胺走起"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "欢迎互fo!",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104498445708832836",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 141,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "雙手合十的時候，第一個聽到祈禱的人是自己。\n-\n精神病channel偶爾發一些照片和作品\n微查成分互fo\n-\n闲聊群https://t.co/IJX8d7N6vG\nbelieve in Satanism La Vey",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 81,
+                "expanded_url": "https://x.com/i/chat/group_join/g2099560623025889330/9RJhkwgGm0",
+                "start": 58,
+                "url": "https://t.co/IJX8d7N6vG"
+              }
+            ]
+          }
+        },
+        "id": "1860377535215013888",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2104453834886308010",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2099067822152560977",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860377535215013888/1783699878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 304,
+          "like_count": 2347,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1463
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

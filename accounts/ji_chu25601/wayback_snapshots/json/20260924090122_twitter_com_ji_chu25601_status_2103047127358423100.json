@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103047105057370112"
+      ]
+    },
+    "author_id": "1910629733785870336",
+    "conversation_id": "2103047127358423100",
+    "created_at": "2026-09-24T09:01:22.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103047127358423100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssPKt95hqi",
+          "end": 50,
+          "expanded_url": "https://x.com/ji_chu25601/status/2103047127358423100/photo/1",
+          "media_key": "3_2103047105057370112",
+          "start": 27,
+          "url": "https://t.co/ssPKt95hqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103047127358423100",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103047105057370112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "pr塔也许能让我开心的只有红色不过只剩25盒还有3板 https://t.co/ssPKt95hqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2103047105057370112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-GMxrbsAAx59r.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103047105057370112"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2103047127358423100",
+        "created_at": "2026-09-24T09:01:22.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103047127358423100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssPKt95hqi",
+              "end": 50,
+              "expanded_url": "https://x.com/ji_chu25601/status/2103047127358423100/photo/1",
+              "media_key": "3_2103047105057370112",
+              "start": 27,
+              "url": "https://t.co/ssPKt95hqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103047127358423100",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103047105057370112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr塔也许能让我开心的只有红色不过只剩25盒还有3板 https://t.co/ssPKt95hqi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "欢迎互fo!",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103047127358423100",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 140,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

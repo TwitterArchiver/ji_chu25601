@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2104381799178846316",
+    "created_at": "2026-10-02T22:39:28.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T23:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106152109947392373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106152109947392373",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104730066425131288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 我不知道为什么我只要一吃那个巴氯芬就难受的要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2104381799178846316",
+        "created_at": "2026-10-02T22:39:28.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106152109947392373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106152109947392373",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104730066425131288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 我不知道为什么我只要一吃那个巴氯芬就难受的要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860377535215013888",
+        "conversation_id": "2104381799178846316",
+        "created_at": "2026-09-29T00:28:46.000Z",
+        "display_text_range": [
+          13,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T01:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104730066425131288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104730066425131288",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104498445708832836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 不会）也可能是我耐药体质 我后面还叠了8t苯海索 现在成功断片！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "欢迎互fo!",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106152109947392373",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 141,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "雙手合十的時候，第一個聽到祈禱的人是自己。\n-\n精神病channel偶爾發一些照片和作品\n微查成分互fo｜demisexual\n-\n闲聊群https://t.co/IJX8d7N6vG\nbelieve in Satanism La Vey",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 92,
+                "expanded_url": "https://x.com/i/chat/group_join/g2099560623025889330/9RJhkwgGm0",
+                "start": 69,
+                "url": "https://t.co/IJX8d7N6vG"
+              }
+            ]
+          }
+        },
+        "id": "1860377535215013888",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2105504914361438421",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2099067822152560977",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860377535215013888/1783699878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 307,
+          "like_count": 2352,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1484
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

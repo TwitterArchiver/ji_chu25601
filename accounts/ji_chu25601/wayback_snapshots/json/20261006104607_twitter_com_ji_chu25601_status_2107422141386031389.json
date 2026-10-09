@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910629733785870336",
+    "conversation_id": "2107202521639109051",
+    "created_at": "2026-10-06T10:46:07.000Z",
+    "display_text_range": [
+      29,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107422141386031389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630054577511997440",
+          "start": 0,
+          "username": "ch95032580"
+        },
+        {
+          "end": 28,
+          "id": "1811393690008756225",
+          "start": 12,
+          "username": "_korekuni_ryuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107422141386031389",
+    "in_reply_to_user_id": "1630054577511997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107319316790354088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch95032580 @_korekuni_ryuji 无需补充立刻开方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2107202521639109051",
+        "created_at": "2026-10-06T10:46:07.000Z",
+        "display_text_range": [
+          29,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107422141386031389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630054577511997440",
+              "start": 0,
+              "username": "ch95032580"
+            },
+            {
+              "end": 28,
+              "id": "1811393690008756225",
+              "start": 12,
+              "username": "_korekuni_ryuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107422141386031389",
+        "in_reply_to_user_id": "1630054577511997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107319316790354088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch95032580 @_korekuni_ryuji 无需补充立刻开方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630054577511997440",
+        "conversation_id": "2107202521639109051",
+        "created_at": "2026-10-06T03:57:31.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T04:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107319316790354088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811393690008756225",
+              "start": 0,
+              "username": "_korekuni_ryuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107319316790354088",
+        "in_reply_to_user_id": "1811393690008756225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107202521639109051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_korekuni_ryuji 直接无须复诊立刻开方"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "欢迎互fo!",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107422141386031389",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 143,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-27T03:58:04.000Z",
+        "description": "oder/穿孔/不割  这里是烈日，会偶尔出售自己用不完的💊回点血喵，互fo欢迎，没看到请私信我\n我的ngl：https://t.co/n7FFP9hOfi\n防走丢tg：@thesun324909",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "thesun324909"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lion200403",
+                "end": 78,
+                "expanded_url": "https://ngl.link/lion200403",
+                "start": 55,
+                "url": "https://t.co/n7FFP9hOfi"
+              }
+            ]
+          }
+        },
+        "id": "1630054577511997440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2107411262208672050",
+        "name": "烈日（pr预售中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630054577511997440/1790992742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106202334091161600/nanG4Rcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 144,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "ch95032580",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T13:34:50.000Z",
+        "description": "我是物语\n前世:@Mikatsuki_iryu\n地雷系/重力系/病娇全肯定bot\n想骚扰我🚪68纯绿，不打钱别逼我骂你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Mikatsuki_iryu"
+              }
+            ]
+          }
+        },
+        "id": "1811393690008756225",
+        "is_identity_verified": false,
+        "location": "Kasukabe-shi, Saitama",
+        "most_recent_tweet_id": "2107422151787892952",
+        "name": "♪物語炸薯條♪🐈‍⬛",
+        "pinned_tweet_id": "2105995622876881388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811393690008756225/1763210288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106793773917462528/mEjJpC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 131,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 935
+        },
+        "url": "",
+        "username": "_korekuni_ryuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
